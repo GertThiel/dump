@@ -40,7 +40,9 @@ TorqueBox should …
 
 Specifications: JAAS, OpenId, OAuth
 
-[restful-authentication](http://github.com/technoweenie/restful-authentication)
+[restful-authentication](http://github.com/technoweenie/restful-authentication),
+[authlogic](http://github.com/binarylogic/authlogic/),
+[clearance](http://github.com/thoughtbot/clearance/)
 
 [JBoss Security](http://jboss.org/jbosssecurity/),
 [JBossXACML](http://jboss.org/jbosssecurity/jbossxacml.html)
@@ -73,15 +75,22 @@ Specifications: JMX
 
 ### State Machines and Workflows
 
-TorqueBox should …
+TorqueBox should integrate … a worklow engine … orchestrate a Rails app …
+
+Specifications: BPEL, XPDL
 
 [Ruote](http://openwferu.rubyforge.org/) formerly known as OpenWFEru
 
+[Drools Guvnor](http://jboss.org/drools/drools-guvnor.html),
+[Drools Flow](http://jboss.org/drools/drools-flow.html),
 [JBoss jBPM](http://jboss.org/jbossjbpm/),
-[JBoss BPEL Server](http://jboss.org/riftsaw) aka RiftSaw
+[JBoss BPEL Server](http://jboss.org/riftsaw) aka RiftSaw,
+[POC-UI](http://www.pocui.org/)
+
+    # in app/flows/…
 
 
-### Database access and Full Text Search
+### Database Access and Full Text Search
 
 TorqueBox should integrate ActiveRecord behind the scenes with JDBC.
 
@@ -92,9 +101,12 @@ or Sphinx and the Rails plug-ins superfluous.
 
 Specifications: JDBC
 
-ActiveRecord, Datamapper, Ferret
+ActiveRecord, Datamapper, Ferret, Sphinx
 
 [Hibernate](https://www.hibernate.org/)
+
+Banks: [ActiveHibernate](http://code.google.com/p/activehibernate/),
+ActiveJPA: allow all Java Persistence frameworks to be swapped under the covers
 
 Status: Released, packaged w/ TorqueBox
 
@@ -191,12 +203,23 @@ Status: Beta, partitially packaged w/ TorqueBox
 
 TorqueBox should …
 
+Specifications: JMS
+
+[HornetQ](http://jboss.org/hornetq/)
+
 
 ### Data Warehousing and Mining
 
 TorqueBox should …
 
 [ActiveWarehouse](http://github.com/aeden/activewarehouse)
+
+[Teiid](http://www.jboss.org/teiid/)
+
+
+### Portals and Portlets
+
+Specifications: Portlets 2.0
 
 
 ### Misc
