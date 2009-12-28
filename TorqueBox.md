@@ -11,6 +11,10 @@
     features like instant cloud-readyness, enterprise-grade integration or
     service management and monitoring easily
 
+  * should behave exactly like plain Rails deployments until the user
+    configures the app to take adavantage of TorqueBox features
+
+    ActionController::Base.cache\_store = :jboss\_cache\_store
 
 > If I have seen further it is only by standing on the shoulders of giants.
 
@@ -32,6 +36,54 @@ Rails app or part of it needs to be deployed traditionally, that is without
 JBoss AS.
 
 E.g. `app/dav_presenter`…
+
+
+### Session Store
+
+TorqueBox should provide a clustered session store and use that if
+configured to do so:
+
+    ## in config/initializers/session_store.rb
+
+    ActionController::Base.session_store = :jboss_session_store
+
+Caveat utilitor: Replacing a default Rails session store with the JBoss
+session store invalidates every existing session (cookie)!
+
+
+### Cache Store
+
+TorqueBox should provide a clustered cache store and use that if
+configured to do so:
+
+    ## in config/initializers/cache_store.rb
+
+    ActionController::Base.cache_store = :jboss_cache_store
+    ActionController::Base.cache_store = :infinispan_store
+    ActionController::Base.cache_store = :compressed_jboss_cache_store
+    ActionController::Base.cache_store = :compressed_infinispan_store
+
+Integrate ActiveSupport::Cache with [JBoss Cache](http://jboss.org/jbosscache/)
+and [Infinispan](http://www.jboss.org/infinispan/)
+
+Specifications: JCACHE
+
+Status: Beta, available
+
+
+### Embedded Database
+
+TorqueBox should provide a clustered and embedded database suitable to replace
+SQLite and use that if configured to do so:
+
+    ## in config/database.yml
+
+    test:
+      adapter: hypersonic
+
+While most deployments will continue to use MySQL, PostgreSQL or another
+dedicated RDBMS server such an embedded database could be useful for testing
+proposes.
 
 
 ### Authentication and Authorization
@@ -147,7 +199,7 @@ Specifications: JCR
     document.content.to_xhtml
 
 
-### WebDAV
+### Integration: WebDAV
 
 TorqueBox should allow to expose 'stuff' to WebDAV clients using a presenter.
 
@@ -173,18 +225,6 @@ TorqueBox should allow to expose 'stuff' to WebDAV clients using a presenter.
     end
 
 
-### Caching
-
-TorqueBox should …
-
-Integrate ActiveSupport::Cache with [JBoss Cache](http://jboss.org/jbosscache/)
-and [Infinispan](http://www.jboss.org/infinispan/)
-
-Specifications: JCACHE
-
-Status: Beta, available
-
-
 ### Integration: ESB, REST, SOA, SOAP, Webservices
 
 TorqueBox should …
@@ -196,6 +236,34 @@ Specifications: SOAP, WS-*
 [JBossESB](http://jboss.org/jbossesb/),
 [JBossWS](http://jboss.org/jbossws/)
 
+Bank: [handsoap](http://github.com/troelskn/handsoap)
+
+    class Ec2Endpoint << TorqueBox::Soap::Endpoint
+
+      # configure the defaults of this class
+      #
+      service 'AmazonEC2' do
+        description 'public/system/wsdl/ec2.wsdl'
+        namespace   'http://ec2.amazonaws.com/doc/2008-12-01/'
+      end
+
+      # overwrite everything that should be handled
+      # individually
+
+      # method per operation
+
+    end
+
+    # or
+
+    class Ec2Endpoint
+
+      include TorqueBox::Soap::Endpoint
+
+      # method per operation
+
+    end
+
 Status: Beta, partitially packaged w/ TorqueBox
 
 
@@ -206,6 +274,30 @@ TorqueBox should …
 Specifications: JMS
 
 [HornetQ](http://jboss.org/hornetq/)
+
+
+### Integration: Thrift
+
+[Thrift](http://incubator.apache.org/thrift/),
+[thrift4rails](http://github.com/railsbros/thrift4rails)
+
+    # in app/endpoints/document_thrift_endpoint.rb
+
+    class DocumentThriftEndpoint << TorqueBox::Thrift::Endpoint
+
+      # method per operation
+
+    end
+
+    # or
+
+    class DocumentThriftEndpoint
+
+      include TorqueBox::Thrift::Endpoint
+
+      # method per operation
+
+    end
 
 
 ### Data Warehousing and Mining
@@ -228,6 +320,10 @@ TorqueBox should allow to expose 'stuff' as Excel- and PDF/RTF download as
 part of scaffolded ActionControllers by leveraging
 [Apache POI](http://poi.apache.org/) and [iText](http://www.lowagie.com/iText/).
 
+TorqueBox should spell check 'stuff' using
+[Hunspell](http://hunspell.sourceforge.net/) and
+[ruby-hunspell](http://rubyforge.org/projects/ruby-hunspell/) or
+[hunspell](http://rubyforge.org/projects/hunspell)
 
 ### Licensing
 
