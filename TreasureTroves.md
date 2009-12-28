@@ -50,9 +50,16 @@
   * [Bluepill](http://asemanfar.com/Bluepill:-a-new-process-monitoring-tool):
     a new process monitoring tool
 
+  * [Ernie](http://github.com/mojombo/ernie) is an Erlang/Ruby
+    [BERT-RPC](http://bert-rpc.org/) Server
+
   * [Liquid HTML Editor](http://github.com/tobi/liquid-editor) -
     Liquid syntax highlighting for the amazing
     [CodeMirror](http://marijn.haverbeke.nl/codemirror/) HTML source code editor
+
+  * [RightAWS](http://rightaws.rubyforge.org/) -
+    RightScale's open-source gems provide Ruby-language interfaces to several
+    cloud computing platforms
 
   * [Ruleby](http://github.com/mattup/ruleby) - Rule Engine for Ruby
 
