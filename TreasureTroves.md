@@ -3,6 +3,9 @@
   * [Fixtures without validation with Factory Girl](http://codetunes.com/2009/11/05/fixtures-without-validation-with-factory-girl/) -
     Nice idea for generating bad data in a concise and repeatable way
 
+  * [Pickle](http://github.com/ianwhite/pickle) gives you Cucumber steps that
+    create your models easily from FactoryGirl or Machinist factories/blueprints.
+
 # Content Management Systems
 
   * [Rails CMS Alternatives](http://afreshcup.com/home/2009/11/26/rails-cms-alternatives.html),
@@ -101,6 +104,15 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Teambox](http://www.teambox.com/),
     [GitHub repo](http://github.com/michokest/Teambox-2)
+
+# Web Services
+
+##  Mehrwertsteuernummer (MWSt-ID), Umsatzsteuernummer (USt-ID)
+
+  * Online Formular zur
+    [Bestätigung von ausländischen Umsatzsteuer-Identifikationsnummern](http://evatr.bff-online.de/eVatR/)
+    des Bundeszentralamts für Steuern mit der Beschreibung einer XML-RPC
+    Schnittstelle ebd.
 
 # Misc
 

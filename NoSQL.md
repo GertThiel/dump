@@ -22,6 +22,24 @@
 
   * [MongoMapper](http://mongomapper.com/)
 
+GridFS
+
+  * [CarrierWave](http://github.com/jnicklas/carrierwave/)
+    supports MongoMapper and offers compatibility to Paperclip
+
+  * [GridFS adapter](http://github.com/retro/gridfs-rackdav) for
+    [RackDAV](http://github.com/georgi/rack_dav)
+
+  * [GridFS FUSE](http://github.com/mikejs/gridfs-fuse/) allows you to mount
+    a MongoDB GridFS instance as a local filesystem
+
+  * John Nunemaker's fork of [Grip](http://github.com/jnunemaker/grip)
+    (from the author of MongoMapper)
+
+  * [Rack::GridFS](http://github.com/skinandbones/rack-gridfs/)
+
+  * [Rails Metal for serving from GridFS](http://github.com/twoism/metal_grid_fs/)
+
 ## Install MongoDB
 
 ### Mac OS X
