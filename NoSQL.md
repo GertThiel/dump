@@ -16,6 +16,8 @@
 
 # MongoDB
 
+[Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks)
+
   * [MongoDB](http://www.mongodb.org/)
 
   * [MongoMapper](http://mongomapper.com/)
