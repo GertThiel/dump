@@ -1,3 +1,34 @@
+# Alfresco ECMS
+
+  * [Alfresco](http://www.alfresco.com/),
+    [Planet](http://blogs.alfresco.com/planet/),
+    [Webcasts](http://blogs.alfresco.com/wp/webcasts/)
+
+  * Alternative front ends
+
+    * [DoCASU](http://docasu.sourceforge.net/) uses [Ext JS](http://www.extjs.com/) 2.0
+
+    * [Jibe](http://jibeframework.org/) uses [Ext JS](http://www.extjs.com/)
+
+    * [opsoro](http://www.opsoro.org/) uses [Ext JS](http://www.extjs.com/) 2.0
+
+  * Integrations
+
+    * [Drupal](http://drupal.org/) [CMIS Alfresco Module](http://drupal.org/project/cmis_alfresco),
+      [screencast](http://ecmarchitect.com/archives/2009/04/07/955)
+
+    * [Kofax](http://www.kofax.com/de/) [Release Script](http://wiki.alfresco.com/wiki/Kofax_Release_Script)
+
+    * Rails [CMIS Framework](http://code.google.com/p/railscmis/)
+
+  * Misc
+
+    * Jeff Potts [ecmarchitect.com](http://ecmarchitect.com/) site
+
+    * [Sustainable IDE](http://www.side-labs.org/),
+      based on [TOPCASED](http://www.topcased.org/),
+      based on [Eclipse EMF](http://www.eclipse.org/modeling/)
+
 # BDD + TDD
 
   * [Fixtures without validation with Factory Girl](http://codetunes.com/2009/11/05/fixtures-without-validation-with-factory-girl/) -

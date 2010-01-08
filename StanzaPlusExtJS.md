@@ -37,6 +37,8 @@ be superceded as soon as possible.
 
   * Ed Spencer's [extmvc](http://github.com/extmvc/extmvc)
 
+  * [Rwt](http://rwt.accesstecnologia.com.br/) uses Ext JS 2.2
+
 ## Other Related Ressources
 
   * Deep Linking:
@@ -79,6 +81,14 @@ be superceded as soon as possible.
 
     and a
     [Collection of re-usable applications for the Ext desktop](http://github.com/edspencer/ext-applications)
+
+  * [Shea Frederick](http://www.vinylfox.com/)
+
+    incl.
+    [DataDrop](http://www.vinylfox.com/datadrop-drag-grid-data-from-spreadsheet/)
+    an ExtJS grid plug-in, giving that grid the ability to accept data dragged
+    from spreadsheet programs such as Excel and OpenOffice Calc right into the
+    grid to create rows of data.
 
   * [Stack Overflow](http://stackoverflow.com/questions/tagged/extjs)
 
