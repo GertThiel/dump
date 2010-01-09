@@ -68,3 +68,16 @@
 
     Let users browse using an integrated HTTP proxy to index all visited
     web sites for later retrieval
+
+## Inspirations
+
+  * [Chandler](http://chandlerproject.org/)
+
+  * Corel InfoCentral
+
+  * [Ecco Pro](http://en.wikipedia.org/wiki/Ecco_Pro)
+
+  * [InfoCube](http://www.infoqube.biz/)
+
+  * Lotus [Agenda](http://en.wikipedia.org/wiki/Lotus_Agenda),
+    [Organizer](http://en.wikipedia.org/wiki/Lotus_Organizer)

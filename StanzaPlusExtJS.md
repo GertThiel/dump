@@ -37,7 +37,9 @@ be superceded as soon as possible.
 
   * Ed Spencer's [extmvc](http://github.com/extmvc/extmvc)
 
-  * [Rwt](http://rwt.accesstecnologia.com.br/) uses Ext JS 2.2
+  * [RWT - Rails Web Toolkit](http://rwt.accesstecnologia.com.br/) uses
+    Ext JS 2.2, [Github repos](http://github.com/smbrant/rwt),
+    [Redmine](http://access.net.br/projects/show/rwt)
 
 ## Other Related Ressources
 
@@ -63,6 +65,10 @@ be superceded as soon as possible.
   * Integrating TinyMCE:
     [Ext.ux.TinyMCE](http://www.extjs.com/forum/showthread.php?t=24787),
     [live example](http://blogs.byte-force.com/xor/tinymce/index.html)
+
+  * [Mankz](http://mankzblog.wordpress.com/)'s
+    [Ext Gantt](http://www.ext-scheduler.com/gantt.html) and
+    [Ext Scheduler](http://www.ext-scheduler.com/)
 
   * Saki's Extensions, Plugins and Know-How @ [extjs.eu](http://extjs.eu/)
 
@@ -93,3 +99,10 @@ be superceded as soon as possible.
   * [Stack Overflow](http://stackoverflow.com/questions/tagged/extjs)
 
   * [Testing ExtJS Applications with Selenium](http://www.extjs.com/blog/2008/11/03/testing-ext-js-ext-gwt-applications-with-selenium/)
+
+## Inspirations
+
+  * [conjoon.org](http://www.conjoon.org/) is a web based
+    personal information manager with a strong focus on messaging.
+
+  * [Tine 2.0](http://www.tine20.org/)
