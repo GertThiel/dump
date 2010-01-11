@@ -79,11 +79,23 @@
 
   * Unified Messaging (UM)
 
+optionally
+
+  * Business Intelligence (BIS)
+
+  * Instant Messaging (IM)
+
+  * Crawlers and indexing Bots and Proxies
+
+  * Synchronization with PDAs and smart phones
+
 __textprovider.de__ related project aquisition belongs here
 
 ### CIQ: Project
 
-  * Project Mgmt. (PM)
+— Projektsteuerung / -verwaltung
+
+  * Project Mgmt. (PM) including Resource Planning (ERP, HRIS)
 
   * Defect and Requirement Mgmt. (TTS)
 
@@ -95,16 +107,48 @@ __Stanza__ software development belongs here
 
   * Content Mgmt. (CMS)
 
+    integrates __textprovider.de__ by delegating content authorships as tasks.
+
+    Shall replace the SilverStripe installation for the textprovider.de site.
+
+  * textprovider.de (TP)
+
+    offers SEO-compliant content production.
+
+optionally
+
+  * Linguistics
+
+    integrates dictionaries, thessauri, text corpora… like:
+    dict.cc, Duden, Google, leo.org, Pons, Wikipedia, Wiktionary, Wordnet, Yahoo
+
+  * Remote content mgmt.
+
+    Tightly integrate external and remote content management systems like
+    Drupal, Joomla or Wordpress. Sell remote authoring as a service
+                                           — Fernredaktion als Dienstleitung.
+
 __textprovider.de__ related task settlements belong here
 
 ### CIQ: Vault
 
   * Document Lifecycle Mgmt. (DMS)
 
-    including contract and compliance mgmt.
+    including
 
-    Includes software source repositories and any other persited information
-    that's value does not depend on ownership or time.
+    * contract and compliance mgmt.
+
+    * scanning and indexing of paper documents
+
+      by integrating an external native Mac OS X or Windows application like
+      Kofax
+
+    * software source repositories
+    
+    * and any other persisted information that's value does not depend on
+      ownership or time
+
+  * Indexing of external and remote repositories
 
 __textprovider.de__ related outcomes (exports) belong here
 
@@ -151,6 +195,10 @@ Links declare contexts -- Verknüpfungen bilden Zusammenhänge ab
 
     Every texprovider.de task is an activity. Author, reviewer and project
     manager are respnsible for the successful settlement of a task.
+
+    Activities can be composed of many: Visiting a customer depends on
+    travelling there and back:
+                                                   — Anreise, Termin, Abreise
 
         Activity
           -> Contacts + Roles
