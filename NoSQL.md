@@ -20,11 +20,22 @@
 
   * [Using SimpleDB and Rails in No Time with ActiveResource](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1242)
 
+## Caché
+
+  * InterSystems [Caché](http://www.intersystems.de/cache/) is an advanced
+    but commercial 'successor' of GT.M
+
+    Data stored in Caché can be accessed using JDBC and ODBC.
+
+  * Max Lapshin wrote a related [Ruby driver](http://intersys.rubyforge.org/)
+
 # MongoDB
 
 [Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks)
 
   * [MongoDB](http://www.mongodb.org/)
+
+  * [Mongoid](http://mongoid.org/)
 
   * [MongoMapper](http://mongomapper.com/)
 
@@ -65,3 +76,29 @@ Optionally install `mongo_ext` with the C extensions for the
 MongoDB Ruby driver:
 
     sudo gem install mongo_ext
+
+# Neo4j
+
+  * [Neo4j](http://neo4j.org/)  is a __graph database__. It is an embedded,
+    disk-based, fully transactional Java persistence engine that stores data
+    structured in graphs rather than in tables. A graph (mathematical lingo
+    for a network) is a flexible data structure that allows a more agile
+    and rapid style of development.
+
+  * [Neo4j.rb](http://github.com/andreasronge/neo4j/) includes a Lucene warpper.
+
+and
+
+  * [Ontopia](http://code.google.com/p/ontopia/) for building, maintaining,
+    and deploying Topic Maps-based applications.
+
+# Virtuoso
+
+  * OpenLink [Virtuoso](http://virtuoso.openlinksw.com/) Universal Server
+
+    is a scalable cross-platform server that combines SQL/RDF/XML Data Management
+    with Web Application Server and Web Services Platform functionality.
+
+    [Open-Source Edition](http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/)
+
+  * [OpenLink ODBC Adapter for Ruby on Rails / Active Record](http://odbc-rails.rubyforge.org/)

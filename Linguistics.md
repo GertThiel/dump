@@ -12,6 +12,15 @@
 
 [Modalpartikel](http://de.wikipedia.org/wiki/Modalpartikel)
 
+[Stemming](http://de.wikipedia.org/wiki/Stemming)
+
+#### Libraries
+
+[Snowball](http://snowball.tartarus.org/) is a language in which stemming
+algorithms can be easily represented. The Snowball compiler translates a
+Snowball script (a  .sbl file) into either a thread-safe ANSI C program or a
+Java program.
+
 ### "Giftlisten"
 
 #### Füllwörter

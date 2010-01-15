@@ -234,3 +234,7 @@ Links declare contexts -- Verknüpfungen bilden Zusammenhänge ab
 
   * Lotus [Agenda](http://en.wikipedia.org/wiki/Lotus_Agenda),
     [Organizer](http://en.wikipedia.org/wiki/Lotus_Organizer)
+
+and
+
+  * [DabbleDB](http://dabbledb.com/)
