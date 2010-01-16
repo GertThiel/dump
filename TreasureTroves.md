@@ -1,34 +1,3 @@
-# Alfresco ECMS
-
-  * [Alfresco](http://www.alfresco.com/),
-    [Planet](http://blogs.alfresco.com/planet/),
-    [Webcasts](http://blogs.alfresco.com/wp/webcasts/)
-
-  * Alternative front ends
-
-    * [DoCASU](http://docasu.sourceforge.net/) uses [Ext JS](http://www.extjs.com/) 2.0
-
-    * [Jibe](http://jibeframework.org/) uses [Ext JS](http://www.extjs.com/)
-
-    * [opsoro](http://www.opsoro.org/) uses [Ext JS](http://www.extjs.com/) 2.0
-
-  * Integrations
-
-    * [Drupal](http://drupal.org/) [CMIS Alfresco Module](http://drupal.org/project/cmis_alfresco),
-      [screencast](http://ecmarchitect.com/archives/2009/04/07/955)
-
-    * [Kofax](http://www.kofax.com/de/) [Release Script](http://wiki.alfresco.com/wiki/Kofax_Release_Script)
-
-    * Rails [CMIS Framework](http://code.google.com/p/railscmis/)
-
-  * Misc
-
-    * Jeff Potts [ecmarchitect.com](http://ecmarchitect.com/) site
-
-    * [Sustainable IDE](http://www.side-labs.org/),
-      based on [TOPCASED](http://www.topcased.org/),
-      based on [Eclipse EMF](http://www.eclipse.org/modeling/)
-
 # BDD + TDD
 
   * [Fixtures without validation with Factory Girl](http://codetunes.com/2009/11/05/fixtures-without-validation-with-factory-girl/) -
@@ -57,6 +26,12 @@
 
   * [Classifier](http://classifier.rubyforge.org/) is a general module to
     allow Bayesian and other types of classifications.
+
+  * [CRM114.rb](http://crm114.rubyforge.org/), a Ruby interface to
+    [CRM114](http://crm114.sourceforge.net/) Controllable Regex Mutilator, an
+    advanced and fast __text classifier__ that uses sparse binary polynomial matching
+    with a Bayesian Chain Rule evaluator and a hidden Markov model to categorize
+    data with up to a 99.87% accuracy.
 
   * Ruby [Linguistics](http://www.deveiate.org/projects/Linguistics/) Framework
 
@@ -104,6 +79,13 @@ based interface to R.
 
 Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/index.html) has more links.
 
+## Misc
+
+  * [Snowball](http://snowball.tartarus.org/) is a language in which __stemming__
+    algorithms can be easily represented. The Snowball compiler translates a
+    Snowball script (a  .sbl file) into either a thread-safe ANSI C program or a
+    Java program.
+
 # Markdown
 
   * [Babelmark](http://babelmark.bobtfish.net/) Markdown Testbed
@@ -135,6 +117,18 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Teambox](http://www.teambox.com/),
     [GitHub repo](http://github.com/michokest/Teambox-2)
+
+# Resource Description Framework (RDF)
+
+  * [DataMapper RDF.rb Adapter](http://dm-rdf.rubyforge.org/)
+
+  * [RDF.rb](http://rdf.rubyforge.org/): RDF API for Ruby
+
+# Telephony + VoIP
+
+  * [Asterisk](http://www.asterisk.org/)
+
+  * [Yate](http://yate.null.ro/) is Yet Another Telephony Engine
 
 # Web Services
 

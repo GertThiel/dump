@@ -6,6 +6,18 @@
 
   incl. [Interactive Pivot Table](http://oat.openlinksw.com/index.html?pivot)
 
+## Simile Widgets
+
+  * [Exhibit](http://www.simile-widgets.org/exhibit/) to create web pages
+    with advanced text search and filtering functionalities, with interactive
+    maps, timelines, and other visualizations.
+
+  * [Timeline](http://www.simile-widgets.org/timeline/)
+
+    [Installing MIT Simile’s Timeline locally (w/ Rails integration)](http://blog.localkinegrinds.com/2007/11/06/installing-mit-similes-timeline-locally-w-rails-integration/)
+
+  * [Timeplot](http://www.simile-widgets.org/timeplot/)
+
 ## Code Editors
 
   * [CodeMirror](http://marijn.haverbeke.nl/codemirror/)

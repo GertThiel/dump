@@ -4,6 +4,31 @@
     [Planet](http://blogs.alfresco.com/planet/),
     [Webcasts](http://blogs.alfresco.com/wp/webcasts/)
 
+  * Alternative front ends
+
+    * [DoCASU](http://docasu.sourceforge.net/) uses [Ext JS](http://www.extjs.com/) 2.0
+
+    * [Jibe](http://jibeframework.org/) uses [Ext JS](http://www.extjs.com/)
+
+    * [opsoro](http://www.opsoro.org/) uses [Ext JS](http://www.extjs.com/) 2.0
+
+  * Integrations
+
+    * [Drupal](http://drupal.org/) [CMIS Alfresco Module](http://drupal.org/project/cmis_alfresco),
+      [screencast](http://ecmarchitect.com/archives/2009/04/07/955)
+
+    * [Kofax](http://www.kofax.com/de/) [Release Script](http://wiki.alfresco.com/wiki/Kofax_Release_Script)
+
+    * Rails [CMIS Framework](http://code.google.com/p/railscmis/)
+
+  * Misc
+
+    * Jeff Potts [ecmarchitect.com](http://ecmarchitect.com/) site
+
+    * [Sustainable IDE](http://www.side-labs.org/),
+      based on [TOPCASED](http://www.topcased.org/),
+      based on [Eclipse EMF](http://www.eclipse.org/modeling/)
+
 # GT.M, M/DB, M/DB:X
 
   * [GT.M](http://fis-gtm.com) Database Engine with Extreme Scalability and Robustness
@@ -28,6 +53,19 @@
     Data stored in Caché can be accessed using JDBC and ODBC.
 
   * Max Lapshin wrote a related [Ruby driver](http://intersys.rubyforge.org/)
+
+# Lucene + Solr
+
+> Although Lucene is a search index, and not a database, if your fields are
+> reasonably small, you can ask Lucene to store them in the index.
+
+  * Apache [Lucene](http://lucene.apache.org/) full-text search index
+
+  * Apache [Solr](http://lucene.apache.org/solr/) enterprise search platform
+
+  * [Lucene or a Database? Yes!](http://lingpipe-blog.com/2008/11/22/lucene-or-a-database-yes/)
+
+  * [Using Lucene like a relational database](http://stackoverflow.com/questions/828714/using-lucene-like-a-relational-database)
 
 # MongoDB
 
@@ -91,6 +129,10 @@ and
 
   * [Ontopia](http://code.google.com/p/ontopia/) for building, maintaining,
     and deploying Topic Maps-based applications.
+
+# Persevere
+
+  * [Persevere](http://www.persvr.org/)
 
 # Virtuoso
 
