@@ -1,3 +1,11 @@
+# Aspect Oriented Programming
+
+  * [Aquarium](http://aquarium.rubyforge.org/)
+
+  * [Gazer](http://github.com/teejayvanslyke/gazer)
+
+    [Aspect-oriented programming in Ruby with Gazer](http://www.elctech.com/projects/aspect-oriented-programming-in-ruby-with-gazer)
+
 # BDD + TDD
 
   * [Fixtures without validation with Factory Girl](http://codetunes.com/2009/11/05/fixtures-without-validation-with-factory-girl/) -
