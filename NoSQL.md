@@ -67,6 +67,20 @@
 
   * [Using Lucene like a relational database](http://stackoverflow.com/questions/828714/using-lucene-like-a-relational-database)
 
+Ruby on Rails integrations:
+
+  * [ActiveLucene](http://github.com/dcrec1/active_lucene) is like
+    ActiveRecord but with Lucene the full text search engine.
+
+    [Full text search in JRuby with ActiveLucene](http://www.diegocarrion.com/2010/02/04/full-text-search-in-jruby-with-activelucene/)
+
+  * [ActsAsSolrReloaded](http://github.com/dcrec1/acts_as_solr_reloaded)
+
+    [ThinkingSphinx exits, enters ActsAsSolrReloaded](http://www.diegocarrion.com/2010/01/18/thinkingsphinx-exits-enters-actsassolrreloaded/)
+
+  * [Sunspot](http://github.com/outoftime/sunspot) Solr-powered search for
+    Ruby objects
+
 # MongoDB
 
 [Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks)
