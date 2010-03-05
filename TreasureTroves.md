@@ -28,6 +28,26 @@
 
 # Linguistics + Statistics
 
+## Algorithmen
+
+  * Plagiarism detection algorithms
+
+    * Greedy String Tiling (GST),
+      Running-Karp-Rabin Greedy-String-Tiling (RKS-GST)
+
+    * nGram Overlap
+
+    * SPEX
+
+    * Winnowing
+
+## Java
+
+  * [Gate](http://gate.ac.uk/) General Architecture for Text Engineering
+
+  * [LingPipe](http://alias-i.com/lingpipe/) is a suite of Java libraries for
+    the linguistic analysis of human language
+
 ## Ruby
 
   * [Completeness-Fu](http://github.com/joshk/completeness-fu)
@@ -95,6 +115,11 @@ based interface to R.
 Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/index.html) has more links.
 
 ## Misc
+
+  * [Copyfind](http://plagiarism.phys.virginia.edu/)
+
+  * [METER (MEasuring TExt Reuse) Project](http://www.dcs.shef.ac.uk/nlp/meter/)
+    incl. algorithm implementations written in Perl
 
   * [Snowball](http://snowball.tartarus.org/) is a language in which __stemming__
     algorithms can be easily represented. The Snowball compiler translates a
