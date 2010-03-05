@@ -83,7 +83,9 @@ Ruby on Rails integrations:
 
 # MongoDB
 
-[Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks)
+> [Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks),
+> [MySQL and MongoDB working together in Kanbanery](http://lunarlogicpolska.com/blog/2010/02/15/mysql-and-mongodb-working-together-in-kanbanery)
+> thanks to the awesomeness of [DataMapper](http://datamapper.org/)
 
   * [MongoDB](http://www.mongodb.org/)
 
@@ -141,8 +143,16 @@ MongoDB Ruby driver:
 
 and
 
+  * [InfoGrid](http://infogrid.org/) is an Internet __Graph Database__ with
+    many additional software components that make the development of REST-ful
+    web applications on a graph foundation easy.
+
   * [Ontopia](http://code.google.com/p/ontopia/) for building, maintaining,
     and deploying Topic Maps-based applications.
+
+## Use Cases
+
+  * [Access Control Lists with Graph Databases](http://nosql.mypopescu.com/post/420668099/access-control-lists-with-graph-databases)
 
 # Persevere
 

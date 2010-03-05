@@ -1,4 +1,4 @@
-# Collective IQ
+# Collective IQ — Project Savant
 
 ## What the heck is this about?
 

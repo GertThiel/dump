@@ -50,6 +50,13 @@
   * [RubyGSL](http://rb-gsl.rubyforge.org/) is a ruby interface to the
     GSL (GNU Scientific Library), for numerical computing with Ruby.
 
+  * [Ruby/GSL-ng](http://rubygems.org/gems/ruby-gsl-ng) is a new generation
+    Ruby/GSL wrapper that strives for code simplicity while retaining
+    acceptable performance. Other GSL wrappers are either utterly complicated
+    (lots of C code) or poorly documented. Ruby/GSL-ng uses Ruby/__FFI__ and
+    little bits of C code to achieve a simple implementation that integrates
+    neatly with Ruby's standard classes and follows most of its conventions.
+
 ## Ruby + R
 
   * [RSRuby](http://rubyforge.org/projects/rsruby/) is a port of RPy
