@@ -83,6 +83,7 @@ Ruby on Rails integrations:
 
 # MongoDB
 
+> [Notes on MongoDB](http://www.paperplanes.de/2010/2/25/notes_on_mongodb.html),
 > [Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks),
 > [MySQL and MongoDB working together in Kanbanery](http://lunarlogicpolska.com/blog/2010/02/15/mysql-and-mongodb-working-together-in-kanbanery)
 > thanks to the awesomeness of [DataMapper](http://datamapper.org/)
