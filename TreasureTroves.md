@@ -14,12 +14,35 @@
   * [Pickle](http://github.com/ianwhite/pickle) gives you Cucumber steps that
     create your models easily from FactoryGirl or Machinist factories/blueprints.
 
+  * [Testing validity of Rails feeds with RSpec](https://wincent.com/wiki/Testing_validity_of_Rails_feeds_with_RSpec)
+
 # Content Management Systems
 
   * [Rails CMS Alternatives](http://afreshcup.com/home/2009/11/26/rails-cms-alternatives.html),
     [Gist](http://gist.github.com/242751)
 
 # Data Exchange, Import + Export
+
+## AtomPub
+
+### Java
+
+  * Apache [Abdera](http://abdera.apache.org/)
+
+  * [Atomojo](http://code.google.com/p/atomojo/)
+
+  * [Rome Propono](http://wiki.java.net/bin/view/Javawsxml/RomePropono)
+
+### Ruby
+
+  * <del>[Alumina](http://github.com/inkspot/alumina) is a Ruby gem that
+    implements Atom, both the syndication format and the publishing protocol</del>
+
+  * [Atom Protocol Exerciser](http://rubyforge.org/projects/ape) is a tool
+    to test your AtomPub protocol server
+
+  * [atompub-server](http://github.com/calavera/atompub-server) to add
+    AtomPub server capabilities to your Rails application
 
 ## WebDAV
 
