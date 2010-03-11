@@ -49,6 +49,15 @@
   * [RackDAV](http://github.com/georgi/rack_dav),
     [GridFS adapter](http://github.com/retro/gridfs-rackdav)
 
+# Documentation
+
+  * [Rocco](http://rtomayko.github.com/rocco/) is a Ruby port of
+    [Docco](http://jashkenas.github.com/docco/), the quick-and-dirty,
+    hundred-line-long, __literate__-programming-style documentation generator
+
+  * [YARD](http://yardoc.org/) is a documentation generation tool for the
+    Ruby programming language
+
 # Linguistics + Statistics
 
 ## Algorithmen
@@ -149,6 +158,14 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     Snowball script (a  .sbl file) into either a thread-safe ANSI C program or a
     Java program.
 
+# Markups
+
+  * [Radius](http://radius.rubyforge.org/) is a powerful tag-based template
+    language for Ruby inspired by the template languages used in
+    [MovableType](http://www.movabletype.org/) and
+    [TextPattern](http://textpattern.com/). It uses tags similar to XML,
+    but can be used to generate any form of plain text (HTML, e-mail, etc…).
+
 # Markdown
 
   * [Babelmark](http://babelmark.bobtfish.net/) Markdown Testbed
@@ -187,6 +204,8 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [RDF.rb](http://rdf.rubyforge.org/): RDF API for Ruby
 
+    [RDF.rb: A Public-Domain RDF Library for Ruby](http://blog.datagraph.org/2010/03/rdf-for-ruby)
+
 # Telephony + VoIP
 
   * [Asterisk](http://www.asterisk.org/)
@@ -201,6 +220,8 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     [Bestätigung von ausländischen Umsatzsteuer-Identifikationsnummern](http://evatr.bff-online.de/eVatR/)
     des Bundeszentralamts für Steuern mit der Beschreibung einer XML-RPC
     Schnittstelle ebd.
+
+  * [SEPA - Der einheitliche Euro-Zahlungsverkehrsraum](http://www.bundesbank.de/zahlungsverkehr/zahlungsverkehr_sepa.php)
 
 # Misc
 
