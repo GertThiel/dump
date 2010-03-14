@@ -33,6 +33,8 @@
 
   * [GT.M](http://fis-gtm.com) Database Engine with Extreme Scalability and Robustness
 
+    [Documentation](http://fisglobal.com/Products/TechnologyPlatforms/GTM/UserDocumentation/index.htm)
+
   * [M/DB](http://gradvs1.mgateway.com/main/?path=mdb)
     is a Free Open Source "plug-compatible" alternative to
     Amazon's [SimpleDB](http://aws.amazon.com/simpledb/) database
@@ -40,10 +42,18 @@
   * [M/DB:X](http://gradvs1.mgateway.com/main/?path=mdbx)
     is a simple, lightweight, yet powerful hybrid JSON/Native XML Database
 
+  * [M/Wire](http://gradvs1.mgateway.com/main/?path=mwire)
+
   * Enterprise Web Developer ([EWD](http://gradvs1.mgateway.com/main/?path=ewd))
     is an advanced web application delvelopment technology and Ajax framework
 
+  * [PIP](http://sourceforge.net/projects/pip/) includes a JDBC driver and a
+    SQL engine
+
   * [Using SimpleDB and Rails in No Time with ActiveResource](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1242)
+
+  * [gtm-rb](http://github.com/aemadrid/gtm-rb) is a first draft of a Ruby
+    client library for the GT.M database engine through the M/Wire protocol
 
 ## Caché
 
