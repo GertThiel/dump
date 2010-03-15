@@ -1,4 +1,8 @@
-# Alfresco ECMS
+# NoSQL
+
+  * [NoSQL](http://nosql-databases.org/)
+
+## Alfresco ECMS
 
   * [Alfresco](http://www.alfresco.com/),
     [Planet](http://blogs.alfresco.com/planet/),
@@ -29,7 +33,7 @@
       based on [TOPCASED](http://www.topcased.org/),
       based on [Eclipse EMF](http://www.eclipse.org/modeling/)
 
-# GT.M, M/DB, M/DB:X
+## GT.M, M/DB, M/DB:X
 
   * [GT.M](http://fis-gtm.com) Database Engine with Extreme Scalability and Robustness
 
@@ -50,12 +54,15 @@
   * [PIP](http://sourceforge.net/projects/pip/) includes a JDBC driver and a
     SQL engine
 
+    This [forum thread](http://sourceforge.net/projects/pip/forums/forum/63826/topic/1955387)
+    includes hints how to integrate PIP into an existing GT.M installation
+
   * [Using SimpleDB and Rails in No Time with ActiveResource](http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1242)
 
   * [gtm-rb](http://github.com/aemadrid/gtm-rb) is a first draft of a Ruby
     client library for the GT.M database engine through the M/Wire protocol
 
-## Caché
+### Caché
 
   * InterSystems [Caché](http://www.intersystems.de/cache/) is an advanced
     but commercial 'successor' of GT.M
@@ -64,7 +71,7 @@
 
   * Max Lapshin wrote a related [Ruby driver](http://intersys.rubyforge.org/)
 
-# Lucene + Solr
+## Lucene + Solr
 
 > Although Lucene is a search index, and not a database, if your fields are
 > reasonably small, you can ask Lucene to store them in the index.
@@ -91,7 +98,7 @@ Ruby on Rails integrations:
   * [Sunspot](http://github.com/outoftime/sunspot) Solr-powered search for
     Ruby objects
 
-# MongoDB
+## MongoDB
 
 > [Notes on MongoDB](http://www.paperplanes.de/2010/2/25/notes_on_mongodb.html),
 > [Why I think Mongo is to Databases what Rails was to Frameworks](http://railstips.org/2009/12/18/why-i-think-mongo-is-to-databases-what-rails-was-to-frameworks),
@@ -99,6 +106,8 @@ Ruby on Rails integrations:
 > thanks to the awesomeness of [DataMapper](http://datamapper.org/)
 
   * [MongoDB](http://www.mongodb.org/)
+
+  * [DataMapper MongoDB Adapter](http://github.com/solnic/dm-mongo-adapter)
 
   * [Mongoid](http://mongoid.org/)
 
@@ -122,15 +131,15 @@ GridFS
 
   * [Rails Metal for serving from GridFS](http://github.com/twoism/metal_grid_fs/)
 
-## Install MongoDB
+### Install MongoDB
 
-### Mac OS X
+#### Mac OS X
 
     port install mongodb
 
-### Ubuntu
+#### Ubuntu
 
-## Install mango\_mapper
+### Install mango\_mapper
 
 Install `mongo_mapper` which will install the MongoDB Ruby driver `mongo`
 and `jnunemaker-validatable` as well:
@@ -142,7 +151,7 @@ MongoDB Ruby driver:
 
     sudo gem install mongo_ext
 
-# Neo4j
+## Neo4j
 
   * [Neo4j](http://neo4j.org/)  is a __graph database__. It is an embedded,
     disk-based, fully transactional Java persistence engine that stores data
@@ -150,7 +159,7 @@ MongoDB Ruby driver:
     for a network) is a flexible data structure that allows a more agile
     and rapid style of development.
 
-  * [Neo4j.rb](http://github.com/andreasronge/neo4j/) includes a Lucene warpper.
+  * [Neo4j.rb](http://github.com/andreasronge/neo4j/) includes a Lucene wrapper.
 
 and
 
@@ -161,15 +170,15 @@ and
   * [Ontopia](http://code.google.com/p/ontopia/) for building, maintaining,
     and deploying Topic Maps-based applications.
 
-## Use Cases
+### Use Cases
 
   * [Access Control Lists with Graph Databases](http://nosql.mypopescu.com/post/420668099/access-control-lists-with-graph-databases)
 
-# Persevere
+## Persevere
 
   * [Persevere](http://www.persvr.org/)
 
-# Virtuoso
+## Virtuoso
 
   * OpenLink [Virtuoso](http://virtuoso.openlinksw.com/) Universal Server
 

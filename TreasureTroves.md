@@ -158,6 +158,12 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     Snowball script (a  .sbl file) into either a thread-safe ANSI C program or a
     Java program.
 
+# Linked Data + Semantic Web
+
+  * [Linked Data](http://linkeddata.org/) is about using the Web to connect
+    related data that wasn't previously linked, or using the Web to lower
+    the barriers to linking data currently linked using other methods
+
 # Markups
 
   * [Radius](http://radius.rubyforge.org/) is a powerful tag-based template
