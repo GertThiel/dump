@@ -131,6 +131,13 @@ GridFS
 
   * [Rails Metal for serving from GridFS](http://github.com/twoism/metal_grid_fs/)
 
+more resources
+
+  * [MongoHub](http://github.com/bububa/MongoHub) is a MongoDB GUI tool
+    based on Titanium
+
+  * [MongoTips](http://mongotips.com/)
+
 ### Install MongoDB
 
 #### Mac OS X
