@@ -1,10 +1,18 @@
 # Widgets for RIAs
 
+## Data Grids
+
+  * [jQuery Grid Plug-in](http://www.trirand.com/blog/) and the related
+    [2dcJqgrid Rails plugin](http://www.2dconcept.com/jquery-grid-rails-plugin)
+    Rails Plug-in
+
 ## Data Warehousing, Pivot Tables
 
-  * [OAT Framework](http://oat.openlinksw.com/)
+  * Coqsoft [EJS TreeGrid](http://www.treegrid.com/) and
+    [EJS TreeGrid Gantt Chart](http://www.tgantt.com/)
 
-  incl. [Interactive Pivot Table](http://oat.openlinksw.com/index.html?pivot)
+  * [OAT Framework](http://oat.openlinksw.com/)
+    incl. [Interactive Pivot Table](http://oat.openlinksw.com/index.html?pivot)
 
 ## Simile Widgets
 

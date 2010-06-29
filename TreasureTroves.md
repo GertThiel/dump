@@ -111,6 +111,9 @@
 
 ## Ruby + R
 
+  * [Ruby client for Rserve](http://github.com/clbustos/Rserve-Ruby-client),
+    a [binary R server](http://www.rforge.net/Rserve/)
+
   * [RSRuby](http://rubyforge.org/projects/rsruby/) is a port of RPy
     (the equivalent Python module) and embeds a full R interpreter into Ruby.
 
@@ -252,3 +255,5 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Ruby on Sails](http://danopia.net/posts/12) - __Google Wave__ provider
     implemented in Ruby
+
+  * [Custom SQL queries without find_by_sql](http://snippets.dzone.com/posts/show/5570)
