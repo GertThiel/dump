@@ -46,8 +46,16 @@
 
 ## WebDAV
 
+Rails 2:
+
   * [RackDAV](http://github.com/georgi/rack_dav),
     [GridFS adapter](http://github.com/retro/gridfs-rackdav)
+
+Rails 3:
+
+  * [dav4rack](http://github.com/chrisroberts/dav4rack)
+
+    [Rails 3, HTTP extensions (WebDAV) and Rack App mounting](http://stackoverflow.com/questions/4009082/rails-3-http-extensions-webdav-and-rack-app-mounting)
 
 ## Web Services
 
@@ -58,6 +66,8 @@
 # Deployment
 
   * Capistrano
+
+  * [Fog](http://github.com/geemus/fog) is the Ruby cloud computing library.
 
   * [Sprinkle](http://github.com/crafterm/sprinkle) is a software provisioning
     tool you can use to build remote servers with. eg. to install a Rails, or
@@ -265,6 +275,12 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
   * [Liquid HTML Editor](http://github.com/tobi/liquid-editor) -
     Liquid syntax highlighting for the amazing
     [CodeMirror](http://marijn.haverbeke.nl/codemirror/) HTML source code editor
+
+  * PDF rending plug-in for Rails using
+    [FlyingSaucer](https://xhtmlrenderer.dev.java.net/):
+    [saucerly](http://github.com/wycats/saucerly),
+    [saucerly](http://github.com/nicksieger/saucerly)
+
 
   * [RightAWS](http://rightaws.rubyforge.org/) -
     RightScale's open-source gems provide Ruby-language interfaces to several
