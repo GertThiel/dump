@@ -49,6 +49,22 @@
   * [RackDAV](http://github.com/georgi/rack_dav),
     [GridFS adapter](http://github.com/retro/gridfs-rackdav)
 
+## Web Services
+
+  * [Handsoap](http://rubygems.org/gems/handsoap)
+
+  * [Savon](http://rubygems.org/gems/savon)
+
+# Deployment
+
+  * Capistrano
+
+  * [Sprinkle](http://github.com/crafterm/sprinkle) is a software provisioning
+    tool you can use to build remote servers with. eg. to install a Rails, or
+    Sinatra stack on a brand new slice directly after its been created
+
+    [Collection of recipes for various Ruby on Rails deployment setups](http://github.com/karmi/rails-deployment-setups-sprinkle)
+
 # Documentation
 
   * [Rocco](http://rtomayko.github.com/rocco/) is a Ruby port of
@@ -243,6 +259,9 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
   * [Ernie](http://github.com/mojombo/ernie) is an Erlang/Ruby
     [BERT-RPC](http://bert-rpc.org/) Server
 
+  * [httpi](http://rubygems.org/gems/httpi) provides a common interface for
+    Ruby HTTP libraries: Curb, HTTPClient and Net::HTTP
+
   * [Liquid HTML Editor](http://github.com/tobi/liquid-editor) -
     Liquid syntax highlighting for the amazing
     [CodeMirror](http://marijn.haverbeke.nl/codemirror/) HTML source code editor
@@ -256,4 +275,6 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
   * [Ruby on Sails](http://danopia.net/posts/12) - __Google Wave__ provider
     implemented in Ruby
 
-  * [Custom SQL queries without find_by_sql](http://snippets.dzone.com/posts/show/5570)
+  * [Semantic Versioning](http://semver.org/)
+
+  * [Custom SQL queries without find\_by\_sql](http://snippets.dzone.com/posts/show/5570)

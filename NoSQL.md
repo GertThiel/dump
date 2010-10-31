@@ -33,6 +33,25 @@
       based on [TOPCASED](http://www.topcased.org/),
       based on [Eclipse EMF](http://www.eclipse.org/modeling/)
 
+## CouchDB
+
+  * [Apache CouchDB](http://couchdb.apache.org/)
+
+  * [BigCouch](http://github.com/cloudant/bigcouch) is a highly available,
+    fault-tolerant, clustered, mostly api-compliant version of
+    [Apache CouchDB](http://couchdb.apache.org/).
+
+    While it appears to the end-user as one CouchDB instance, it is in fact
+    one or more nodes in an elastic cluster, acting in concert to store and
+    retrieve documents, index and serve views, and serve CouchApps. BigCouch
+    has been developed and is continually maintained by Cloudant who offer
+    hosted CouchDB as a service.
+
+    Clusters behave according to concepts outlined in Amazon's Dynamo paper,
+    namely that each node can accept requests, data is placed on partitions
+    based on a consistent hashing algorithm, and quorum protocols are for
+    read/write operations.
+
 ## GT.M, M/DB, M/DB:X
 
   * [GT.M](http://fis-gtm.com) Database Engine with Extreme Scalability and Robustness

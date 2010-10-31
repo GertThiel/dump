@@ -27,7 +27,8 @@ be superceded as soon as possible.
 
   * [ActiveDirect](http://github.com/stonegao/active-direct)
 
-  * [rails-extjs-direct](http://rubyforge.org/projects/rails-extjs/)
+  * [rails-extjs-direct](http://rubyforge.org/projects/rails-extjs/),
+    [Github repos](http://github.com/extjs/direct-rails)
 
 ### Other Approaches
 

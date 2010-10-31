@@ -2,6 +2,9 @@
 
 ## Data Grids
 
+  * [DataTables](http://www.datatables.net/) and the related
+    [rails_datatables](http://github.com/phronos/rails_datatables) Rails plug-in
+
   * [jQuery Grid Plug-in](http://www.trirand.com/blog/) and the related
     [2dcJqgrid Rails plugin](http://www.2dconcept.com/jquery-grid-rails-plugin)
     Rails Plug-in
