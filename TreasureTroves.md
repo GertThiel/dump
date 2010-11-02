@@ -55,7 +55,7 @@ Rails 3:
 
   * [dav4rack](http://github.com/chrisroberts/dav4rack)
 
-    [Rails 3, HTTP extensions (WebDAV) and Rack App mounting](http://stackoverflow.com/questions/4009082/rails-3-http-extensions-webdav-and-rack-app-mounting)
+    [Rails 3 and DAV4Rack sample application](http://github.com/clyfe/rails3-dav4rack-example)
 
 ## Web Services
 
@@ -74,6 +74,14 @@ Rails 3:
     Sinatra stack on a brand new slice directly after its been created
 
     [Collection of recipes for various Ruby on Rails deployment setups](http://github.com/karmi/rails-deployment-setups-sprinkle)
+
+# Desktop Integration
+
+  * [Add-in Express](http://www.add-in-express.com/) are sets of components,
+    visual designers and wizards for developing secure, managed, isolated,
+    deployable and version-neutral Microsoft Office extensions, including
+    COM add-ins, Outlook plug-ins, Office smart tags, Excel RTD servers,
+    Excel XLL and UDF add-ons.
 
 # Documentation
 
@@ -292,5 +300,9 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     implemented in Ruby
 
   * [Semantic Versioning](http://semver.org/)
+
+  * [Socky](http://imanel.org/projects/socky) is a complete solution for
+    realtime browser-server communication using WebSockets (where available,
+    falling back to flash sockets where not)
 
   * [Custom SQL queries without find\_by\_sql](http://snippets.dzone.com/posts/show/5570)
