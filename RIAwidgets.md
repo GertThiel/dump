@@ -46,3 +46,10 @@
 
   * [WysiHat](http://github.com/josh/wysihat/),
     [WysiHat Rails Engine](http://github.com/80beans/wysihat-engine)
+
+## Misc
+
+  * [jYUI](http://kickballcreative.com/jquery/plugins/jyui/) is a plug-in
+    built for jQuery that provides a quick and simple solution to getting
+    access to both the YUI library as well as the YUI3 modules from within
+    your jQuery code.
