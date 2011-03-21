@@ -1,3 +1,15 @@
+# RIAs
+
+## jQuery
+
+  * [Building a single page app with Backbone.js, underscore.js and jQuery](http://andyet.net/blog/2010/oct/29/building-a-single-page-app-with-backbonejs-undersc/)
+
+  * [Building Evented Single Page Applications](http://www.slideshare.net/jnunemaker/building-evented-single-page-applications)
+
+  * [Building Single-Page Applications Using jQuery And ColdFusion](http://www.bennadel.com/blog/1730-Building-Single-Page-Applications-Using-jQuery-And-ColdFusion-With-Ben-Nadel-Video-Presentation-.htm)
+
+  * [jQuery Evented Programming Primer](http://orderedlist.com/our-writing/resources/development/jquery-evented-programming-primer/)
+
 # Widgets for RIAs
 
 ## Data Grids

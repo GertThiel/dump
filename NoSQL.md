@@ -90,10 +90,12 @@
 
   * Max Lapshin wrote a related [Ruby driver](http://intersys.rubyforge.org/)
 
-## Lucene + Solr
+## Lucene + ElasticSearch or Solr
 
 > Although Lucene is a search index, and not a database, if your fields are
 > reasonably small, you can ask Lucene to store them in the index.
+
+  * [ElasticSearch](http://www.elasticsearch.org/)
 
   * Apache [Lucene](http://lucene.apache.org/) full-text search index
 
@@ -103,12 +105,20 @@
 
   * [Using Lucene like a relational database](http://stackoverflow.com/questions/828714/using-lucene-like-a-relational-database)
 
-Ruby on Rails integrations:
+### Ruby on Rails integrations:
+
+#### ElasticSearch
+
+  * [Escargot](http://github.com/angelf/escargot)
+
+#### Lucene
 
   * [ActiveLucene](http://github.com/dcrec1/active_lucene) is like
     ActiveRecord but with Lucene the full text search engine.
 
     [Full text search in JRuby with ActiveLucene](http://www.diegocarrion.com/2010/02/04/full-text-search-in-jruby-with-activelucene/)
+
+#### Solr
 
   * [ActsAsSolrReloaded](http://github.com/dcrec1/acts_as_solr_reloaded)
 
@@ -116,6 +126,19 @@ Ruby on Rails integrations:
 
   * [Sunspot](http://github.com/outoftime/sunspot) Solr-powered search for
     Ruby objects
+
+### MongoDB integration
+
+MongoDB could be integrated into ElasticSearch by writing a
+[River](http://www.elasticsearch.org/guide/reference/river/) that would keep
+the ES index up to date by following the MongoDB
+[Oplog](http://www.snailinaturtleneck.com/blog/tag/oplog/).
+
+There is a bunch of Python and Ruby code to steal from:
+
+  * [Loki](https://github.com/saivenkat/loki/blob/master/loki/oplog_change_listener.py)
+  * [Photovoltaic](https://github.com/mikejs/photovoltaic/blob/master/pv.py#L65)
+  * [MongoDB Replica Sync Status](http://tebros.com/2010/11/mongodb-replica-sync-status/)
 
 ## MongoDB
 
@@ -157,26 +180,6 @@ more resources
 
   * [MongoTips](http://mongotips.com/)
 
-### Install MongoDB
-
-#### Mac OS X
-
-    port install mongodb
-
-#### Ubuntu
-
-### Install mango\_mapper
-
-Install `mongo_mapper` which will install the MongoDB Ruby driver `mongo`
-and `jnunemaker-validatable` as well:
-
-    sudo gem install mongo_mapper
-
-Optionally install `mongo_ext` with the C extensions for the
-MongoDB Ruby driver:
-
-    sudo gem install mongo_ext
-
 ## Neo4j
 
   * [Neo4j](http://neo4j.org/)  is a __graph database__. It is an embedded,
@@ -203,6 +206,10 @@ and
 ## Persevere
 
   * [Persevere](http://www.persvr.org/)
+
+## RDF
+
+  * [The state of Ruby, RDF and Rails 3](http://www.randomhacks.net/articles/2010/12/20/the-state-of-ruby-rdf-and-rails-3)
 
 ## Virtuoso
 

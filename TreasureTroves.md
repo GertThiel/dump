@@ -63,18 +63,6 @@ Rails 3:
 
   * [Savon](http://rubygems.org/gems/savon)
 
-# Deployment
-
-  * Capistrano
-
-  * [Fog](http://github.com/geemus/fog) is the Ruby cloud computing library.
-
-  * [Sprinkle](http://github.com/crafterm/sprinkle) is a software provisioning
-    tool you can use to build remote servers with. eg. to install a Rails, or
-    Sinatra stack on a brand new slice directly after its been created
-
-    [Collection of recipes for various Ruby on Rails deployment setups](http://github.com/karmi/rails-deployment-setups-sprinkle)
-
 # Desktop Integration
 
   * [Add-in Express](http://www.add-in-express.com/) are sets of components,
@@ -289,10 +277,11 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     [saucerly](http://github.com/wycats/saucerly),
     [saucerly](http://github.com/nicksieger/saucerly)
 
-
   * [RightAWS](http://rightaws.rubyforge.org/) -
     RightScale's open-source gems provide Ruby-language interfaces to several
     cloud computing platforms
+
+  * [RSS Renderer for Rails 3](https://gist.github.com/445869/) using `ActionController.add_renderer`
 
   * [Ruleby](http://github.com/mattup/ruleby) - Rule Engine for Ruby
 
