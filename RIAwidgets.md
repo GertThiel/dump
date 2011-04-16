@@ -1,5 +1,9 @@
 # RIAs
 
+## JavascriptMVC
+
+  * [The Tech Behind the New Grooveshark](http://blog.jerodsanto.net/2010/12/the-tech-behind-the-new-grooveshark/)
+
 ## jQuery
 
   * [Building a single page app with Backbone.js, underscore.js and jQuery](http://andyet.net/blog/2010/oct/29/building-a-single-page-app-with-backbonejs-undersc/)
@@ -9,6 +13,16 @@
   * [Building Single-Page Applications Using jQuery And ColdFusion](http://www.bennadel.com/blog/1730-Building-Single-Page-Applications-Using-jQuery-And-ColdFusion-With-Ben-Nadel-Video-Presentation-.htm)
 
   * [jQuery Evented Programming Primer](http://orderedlist.com/our-writing/resources/development/jquery-evented-programming-primer/)
+
+### Plug-ins
+
+  * [UI.Layout](http://layout.jquery-dev.net/)
+
+## SproutCore
+
+  * [SproutCore Framework](http://www.sproutcore.com/)
+
+  * [Frozen Canuck’s SproutCore Resources](http://frozencanuck.wordpress.com/sproutcore/)
 
 # Widgets for RIAs
 
@@ -20,6 +34,8 @@
   * [jQuery Grid Plug-in](http://www.trirand.com/blog/) and the related
     [2dcJqgrid Rails plugin](http://www.2dconcept.com/jquery-grid-rails-plugin)
     Rails Plug-in
+
+  * [SlickGrid](http://github.com/mleibman/SlickGrid)
 
 ## Data Warehousing, Pivot Tables
 

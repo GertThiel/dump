@@ -265,12 +265,18 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
   * [Ernie](http://github.com/mojombo/ernie) is an Erlang/Ruby
     [BERT-RPC](http://bert-rpc.org/) Server
 
+  * [git-flow](http://github.com/nvie/gitflow) is a collection of Git extensions
+    to provide high-level repository operations for Vincent Driessen's
+    [branching model](http://nvie.com/git-model)
+
   * [httpi](http://rubygems.org/gems/httpi) provides a common interface for
     Ruby HTTP libraries: Curb, HTTPClient and Net::HTTP
 
   * [Liquid HTML Editor](http://github.com/tobi/liquid-editor) -
     Liquid syntax highlighting for the amazing
     [CodeMirror](http://marijn.haverbeke.nl/codemirror/) HTML source code editor
+
+  * [Piwik](http://piwik.org/) is a real time web analytics software (GPL)
 
   * PDF rending plug-in for Rails using
     [FlyingSaucer](https://xhtmlrenderer.dev.java.net/):
@@ -295,3 +301,5 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     falling back to flash sockets where not)
 
   * [Custom SQL queries without find\_by\_sql](http://snippets.dzone.com/posts/show/5570)
+
+  * [Supermodel](http://github.com/maccman/supermodel): Simple ActiveModel-Powered In-Memory Models

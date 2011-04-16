@@ -1,5 +1,17 @@
 # Linguistik
 
+## Datenbestände
+
+[canoo.net](http://www.canoo.net/)
+
+[GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) ([Licenses](http://www.sfs.uni-tuebingen.de/GermaNet/licenses.shtml))
+
+[OpenThesaurus](http://www.openthesaurus.de/) (LGPL)
+
+## Ressourcen und Tools
+
+[computerlinguistik.org](http://www.computerlinguistik.org/portal/portal.html?s=Ressourcen)
+
 ## Grundlagen
 
 ### Wikipedia
