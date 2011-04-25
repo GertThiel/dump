@@ -276,6 +276,14 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     Liquid syntax highlighting for the amazing
     [CodeMirror](http://marijn.haverbeke.nl/codemirror/) HTML source code editor
 
+  * A more interactive Stanza frontend could be build upon
+    [Node.JS](http://nodejs.org/), [Express](http://expressjs.com/),
+    [Socket.IO](http://socket.io/), all three base of
+    [Zappa](http://github.com/mauricemach/zappa),
+    and [NowJS](http://nowjs.com/).
+
+    Alternative: Scala based [Lift Framework](http://liftweb.net/)
+
   * [Piwik](http://piwik.org/) is a real time web analytics software (GPL)
 
   * PDF rending plug-in for Rails using
@@ -299,6 +307,13 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
   * [Socky](http://imanel.org/projects/socky) is a complete solution for
     realtime browser-server communication using WebSockets (where available,
     falling back to flash sockets where not)
+
+  * [Sprockets 2](http://getsprockets.org/)
+
+    [Using Sprockets 2 in Rails 3.0.x with CoffeeScript and SASS](https://gist.github.com/911003)
+
+    Some of [Using CoffeeScript in Rails](http://rubysource.com/using-coffeescript-in-rails/)
+    is maybe useful as well
 
   * [Custom SQL queries without find\_by\_sql](http://snippets.dzone.com/posts/show/5570)
 
