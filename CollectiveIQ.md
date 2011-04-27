@@ -81,7 +81,7 @@
 
 optionally
 
-  * Business Intelligence (BIS)
+  * Business Intelligence (BI)
 
   * Instant Messaging (IM)
 
@@ -193,12 +193,12 @@ Links declare contexts — Verknüpfungen bilden Zusammenhänge ab
 
     → Appointment, task
 
-    Activities are events which some one attends to or manages. It's not about
+    Activities are events which someone attends to or manages. It's not about
     the event but about someone doing something regarding an event as her/his
     role requires.
 
     Every texprovider.de task is an activity. Author, reviewer and project
-    manager are respnsible for the successful settlement of a task.
+    manager are responsible for the successful settlement of a task.
 
     Activities can be composed of many: Visiting a customer depends on
     travelling there and back:
