@@ -2,11 +2,29 @@
 
 ## Datenbestände
 
-[canoo.net](http://www.canoo.net/)
+  * [canoo.net](http://www.canoo.net/)
 
-[GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) ([Licenses](http://www.sfs.uni-tuebingen.de/GermaNet/licenses.shtml))
+  * [dict.cc](http://www.dict.cc/)
 
-[OpenThesaurus](http://www.openthesaurus.de/) (LGPL)
+  * Duden
+
+  * [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/) ([Licenses](http://www.sfs.uni-tuebingen.de/GermaNet/licenses.shtml))
+
+  * Google
+
+  * [leo.org](http://www.leo.org/)
+
+  * [OpenThesaurus](http://www.openthesaurus.de/) (LGPL)
+
+  * Pons
+
+  * [SpellChecker.net](http://www.spellchecker.net/)
+
+  * Wikipedia
+
+  * Wiktionary
+
+  * [Wordnet](http://wordnet.princeton.edu/), Yahoo
 
 ## Ressourcen und Tools
 

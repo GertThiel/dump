@@ -65,6 +65,8 @@
 
 ## Rich Text Editors
 
+  * [CKeditor](http://ckeditor.com/)
+
   * [PunyMCE](http://code.google.com/p/punymce/),
     [live examples](http://www.moxieforge.net/examples/punymce/examples/),
     [Rails plug-in](http://github.com/imanel/puny_mce/)
@@ -72,8 +74,45 @@
   * [TinyMCE](http://tinymce.moxiecode.com/),
     [live examples](http://tinymce.moxiecode.com/examples/full.php)
 
+  * [WYMeditor](http://www.q-rls.com/index.php/wymeditor-web-based-xhtml-editor)
+
   * [WysiHat](http://github.com/josh/wysihat/),
     [WysiHat Rails Engine](http://github.com/80beans/wysihat-engine)
+
+  * [Xopus](http://xopus.com/)
+
+  * [XStandard](http://xstandard.com/)
+
+Lists of web based HTML or XML editors:
+[1](http://www.w3avenue.com/2010/01/04/list-of-free-web-based-html-editors-for-your-cms-project/)
+[2](http://w3schools.in/article/Web-based-HTML-Editors/)
+
+### Selfmade:
+
+Have a `<div />` which includes the task's structure as XHTML code which
+includes `<input />` tags where the author shall puts her/his stuff into.
+
+Use `$.ajax` to post the complete DOM inside the `<div />` to the server.
+
+## Visual Programming
+
+  * [Impure](http://www.impure.com/): [A Visual Programming Language for Making Fancy Infographics](http://www.fastcodesign.com/1662808/how-to-make-world-class-data-visualizations-without-programming)
+
+  * [WireIt](http://neyric.github.com/wireit/) is an open-source javascript library to create web wirable interfaces for dataflow applications, visual programming languages, graphical modeling, or graph editors
+
+### Inspirations:
+
+  * Microsoft's [Kodu](http://research.microsoft.com/en-us/projects/kodu/)
+
+  * MIT's [Scratch](http://scratch.mit.edu/)
+
+    [BYOB](http://byob.berkeley.edu/) — Build Your Own Blocks (a/k/a Snap)
+
+and
+
+  * [Tag: "VisualProgramming"](http://www.base-sixteen.org/tag.jsp?name=VisualProgramming&id=agdjc2U0azEycgoLEgNUYWcYjycM&sortby=date)
+
+  * [Visual Programming Language](http://en.wikipedia.org/wiki/Visual_programming_language)
 
 ## Misc
 

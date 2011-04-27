@@ -4,7 +4,7 @@
 
   * Track all interactions with companies and people
 
-    * Log calls, documents, emails --> Unified messaging
+    * Log calls, documents, emails → Unified messaging
 
     * Remind of later activities
 
@@ -113,14 +113,18 @@ __Stanza__ software development belongs here
 
   * textprovider.de (TP)
 
-    offers SEO-compliant content production.
+    offers crowdsourced SEO-compliant content production through the web browser.
+
+    Content is created in an online HTML or XML editor.
+
+    Accessible with the web browser, optionally with LibreOffice / OpenOffice
+    or Microsoft Word.
 
 optionally
 
   * Linguistics
 
-    integrates dictionaries, thessauri, text corpora… like:
-    dict.cc, Duden, Google, leo.org, Pons, Wikipedia, Wiktionary, Wordnet, Yahoo
+    integrates dictionaries, thessauri, text corpora…
 
   * Remote content mgmt.
 
@@ -154,15 +158,15 @@ __textprovider.de__ related outcomes (exports) belong here
 
 ## Minimum Record Types
 
-Information vs. Context -- Information ./. Zusammenhang
+Information vs. Context — Information ./. Zusammenhang
 
-Links declare contexts -- Verknüpfungen bilden Zusammenhänge ab
+Links declare contexts — Verknüpfungen bilden Zusammenhänge ab
 
   * CONTACT -- KONTAKT
 
-    <-- File / Item
+    ← File / Item
 
-    --> Company, contact person, user -> author, reviewer, manager…
+    → Company, contact person, user → author, reviewer, manager…
 
     A contact represents a person; be it a company or a human being.
 
@@ -172,22 +176,22 @@ Links declare contexts -- Verknüpfungen bilden Zusammenhänge ab
     May be tagged to be an author or reviewer, a customer, a partner
 
         Contact
-          -> Contact persons, each a contact of it's own
-          -> Addresses
+          → Contact persons, each a contact of it's own
+          → Addresses
 
   * Address
 
-    <-- File / Item
+    ← File / Item
 
-    --> Email address, postal address
+    → Email address, postal address
 
     Some kind of __location__.
 
-  * Activity -- Tätigkeit
+  * Activity — Tätigkeit
 
-    <-- Event + linked Contacts with roles
+    ← Event + linked Contacts with roles
 
-    --> Appointment, task
+    → Appointment, task
 
     Activities are events which some one attends to or manages. It's not about
     the event but about someone doing something regarding an event as her/his
@@ -201,12 +205,12 @@ Links declare contexts -- Verknüpfungen bilden Zusammenhänge ab
                                                    — Anreise, Termin, Abreise
 
         Activity
-          -> Contacts + Roles
-          -> Event
+          → Contacts + Roles
+          → Event
 
   * EVENT -- EREIGNIS
 
-    <-- File / Item
+    ← File / Item
 
     Events happen at or from and until some __time__s.
 
@@ -216,7 +220,7 @@ Links declare contexts -- Verknüpfungen bilden Zusammenhänge ab
           Range: Start date and end date (optionally with time)
           Recurrences (optionally)
 
-  * File / Item -- Akte
+  * File / Item — Akte
 
     May be a document, an email or any record
 
