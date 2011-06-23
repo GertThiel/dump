@@ -6,6 +6,19 @@
 
     [Aspect-oriented programming in Ruby with Gazer](http://www.elctech.com/projects/aspect-oriented-programming-in-ruby-with-gazer)
 
+# Authentification, Single Sign-on and Authorization
+
+  * [CanCan](http://github.com/ryanb/cancan)
+
+  * [CAS](http://www.jasig.org/cas)
+
+    * [devise_cas_authenticatable](http://github.com/nbudin/devise_cas_authenticatable)
+
+    * [RubyCAS-Client](http://code.google.com/p/rubycas-client/) and
+      [RubyCAS-Server](http://code.google.com/p/rubycas-server/)
+
+  * [Devise](http://github.com/plataformatec/devise)
+
 # BDD + TDD
 
   * [Fixtures without validation with Factory Girl](http://codetunes.com/2009/11/05/fixtures-without-validation-with-factory-girl/) -
