@@ -291,7 +291,7 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * A more interactive Stanza frontend could be build upon
     [Node.JS](http://nodejs.org/), [Express](http://expressjs.com/),
-    [Socket.IO](http://socket.io/), all three base of
+    [Socket.IO](http://socket.io/), all three based on
     [Zappa](http://github.com/mauricemach/zappa),
     and [NowJS](http://nowjs.com/).
 
