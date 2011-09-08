@@ -2,9 +2,15 @@
 
 ## JavascriptMVC
 
+  * [State Machine Controller for JavascriptMVC](http://awardwinningfjords.com/2010/05/27/state-machine-controller-for-javascriptmvc.html)
+    [Github repos](http://secondstory.github.com/secondstoryjs-statemachine/)
+
   * [The Tech Behind the New Grooveshark](http://blog.jerodsanto.net/2010/12/the-tech-behind-the-new-grooveshark/)
 
 ## jQuery
+
+  * [An introduction to a Rails 3.1 Application](https://github.com/rodriguezartav/Rails-Mongo-Spine-cs-)
+    with MongoDB and [Spine.js MVC Framework](http://maccman.github.com/spine/)
 
   * [Building a single page app with Backbone.js, underscore.js and jQuery](http://andyet.net/blog/2010/oct/29/building-a-single-page-app-with-backbonejs-undersc/)
 
@@ -13,6 +19,10 @@
   * [Building Single-Page Applications Using jQuery And ColdFusion](http://www.bennadel.com/blog/1730-Building-Single-Page-Applications-Using-jQuery-And-ColdFusion-With-Ben-Nadel-Video-Presentation-.htm)
 
   * [jQuery Evented Programming Primer](http://orderedlist.com/our-writing/resources/development/jquery-evented-programming-primer/)
+
+  * [Kaiten](http://www.officity.com/kaiten/) is a jQuery plug-in which offers a new navigation model for web applications
+
+  * [Peity](http://benpickles.github.com/peity/) is a simple jQuery plugin that converts an element's content into a simple <canvas> mini pie, line, or bar chart.
 
 ### Plug-ins
 
@@ -35,7 +45,7 @@
     [2dcJqgrid Rails plugin](http://www.2dconcept.com/jquery-grid-rails-plugin)
     Rails Plug-in
 
-  * [SlickGrid](http://github.com/mleibman/SlickGrid)
+  * [SlickGrid](http://github.com/mleibman/SlickGrid) for millions of rows
 
 ## Data Warehousing, Pivot Tables
 
@@ -64,6 +74,8 @@
   * [EditArea](http://www.cdolivet.com/index.php?page=editArea)
 
 ## Rich Text Editors
+
+  * [Aloha Editor](http://aloha-editor.org/)
 
   * [CKeditor](http://ckeditor.com/)
 
