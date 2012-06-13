@@ -293,13 +293,18 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     [Node.JS](http://nodejs.org/), [Express](http://expressjs.com/),
     [Socket.IO](http://socket.io/), all three foundation of
     [Zappa](http://github.com/mauricemach/zappa),
-    and [NowJS](http://nowjs.com/).
+    and [NowJS](http://nowjs.com/). See also
+    [Derby](http://derbyjs.com/) ([Github](https://github.com/codeparty/derby)),
+    [Meteor](http://meteor.com/) and
+    [SocketStream](http://www.socketstream.org/) ([Github](http://github.com/socketstream/socketstream)).
+    And [vert.x](http://vertx.io/).
 
-    [batman.js](http://batmanjs.org/)
+    [batman.js](http://batmanjs.org/),
+    [Joosy](http://joosy.ws/) ([Github](https://github.com/roundlake/joosy))
 
-    [SocketStream](http://github.com/socketstream/socketstream)
-
-    Alternative: Scala based [Lift Framework](http://liftweb.net/)
+    Scala based alternatives:
+    [Lift Framework](http://liftweb.net/),
+    [Play Framework](http://www.playframework.org/)
 
   * [Piwik](http://piwik.org/) is a real time web analytics software (GPL)
 
