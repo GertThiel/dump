@@ -1,5 +1,9 @@
 # Deployment
 
+  * [BOSH](https://github.com/cloudfoundry/bosh)
+
+    Dr Nic's [Getting Started with BOSH has never been easier](https://github.com/drnic/bosh-getting-started)
+
   * Capistrano
 
   * [Sprinkle](http://github.com/crafterm/sprinkle) is a software provisioning
@@ -8,11 +12,13 @@
 
     [Collection of recipes for various Ruby on Rails deployment setups](http://github.com/karmi/rails-deployment-setups-sprinkle)
 
+  * [Ironfan](https://github.com/infochimps-labs/ironfan)
+
 ## Cloud
 
 ### AWS EC2
 
-  * [Fog](http://github.com/geemus/fog) is the Ruby cloud computing library.
+  * [Fog](http://fog.io/), ([Github](https://github.com/fog/fog)) is the Ruby cloud computing library.
   * [Judo](http://github.com/mipearson/judo)
   * [Sumo](http://github.com/adamwiggins/sumo), [Sumo: One-off EC2 Instance Launching](http://adam.heroku.com/past/2009/8/28/sumo_oneoff_ec2_instance_lanching/)
 
