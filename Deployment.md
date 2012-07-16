@@ -16,11 +16,25 @@
 
 ## Cloud
 
+### IaaS and PaaS also available as local clouds
+
+  * VMware [Cloud Foundry](http://www.cloudfoundry.com/)
+
+  * Gigaspaces [Cloudify](http://www.cloudifysource.org/)
+
+  * [JoyentCloud](http://www.joyentcloud.com/) is build on
+    [SmartDataCenter](http://www.joyent.com/products/smartdatacenter/)
+
+  * Red Hat [OpenShift](http://openshift.redhat.com/) is available as
+    [OpenShift Origin](https://openshift.redhat.com/app/opensource/download)
+    LiveCD
+
 ### AWS EC2
 
   * [Fog](http://fog.io/), ([Github](https://github.com/fog/fog)) is the Ruby cloud computing library.
   * [Judo](http://github.com/mipearson/judo)
-  * [Sumo](http://github.com/adamwiggins/sumo), [Sumo: One-off EC2 Instance Launching](http://adam.heroku.com/past/2009/8/28/sumo_oneoff_ec2_instance_lanching/)
+  * [Sumo](http://github.com/adamwiggins/sumo),
+    [Sumo: One-off EC2 Instance Launching](http://adam.heroku.com/past/2009/8/28/sumo_oneoff_ec2_instance_lanching/)
 
   * [MongoDB on EC2 and EBS](http://www.slideshare.net/jrosoff/mongodb-on-ec2-and-ebs)
 
