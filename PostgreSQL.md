@@ -5,6 +5,11 @@
 Search for
 ["postgres" at Github](https://github.com/search?q=postgres&repo=&langOverride=&start_value=1&type=Repositories&language=Ruby)
 
+## Backup ##
+
+Heroku's [WAL-E](https://github.com/heroku/WAL-E)
+
+
 ## Ruby, Rails ##
 
 [Rails on PostgreSQL](http://railsonpostgresql.com/) weblog
