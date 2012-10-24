@@ -38,7 +38,16 @@
 
 [Quantitative Linguistik](http://de.wikipedia.org/wiki/Kategorie:Quantitative_Linguistik)
 
+Listen, Wörterbücher:
+
+Wiktionary [Deutsch - Listen, Übersichten und Verzeichnisse](https://de.wiktionary.org/wiki/Kategorie:Deutsch_-_Listen,_Übersichten_und_Verzeichnisse)
+darunter unter Anderem:
+[Anglizismen](https://de.wiktionary.org/wiki/Wiktionary:Deutsch/Liste_der_Anglizismen),
+Phrasen in der Liste der [Redewendungen](https://de.wiktionary.org/wiki/Wiktionary:Deutsch/Redewendungen)
+
 #### Artikel:
+
+[Lesbarkeitsindex](http://de.wikipedia.org/wiki/Lesbarkeitsindex)
 
 [Modalpartikel](http://de.wikipedia.org/wiki/Modalpartikel)
 

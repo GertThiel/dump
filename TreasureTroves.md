@@ -115,6 +115,34 @@ Rails 3:
   * [LingPipe](http://alias-i.com/lingpipe/) is a suite of Java libraries for
     the linguistic analysis of human language
 
+## Javascript
+
+Strip HTML from text ([Source](http://stackoverflow.com/questions/822452/strip-html-from-text-javascript))
+
+    jQuery(html).text();
+
+### Libraries
+
+  * [bjspell](https://code.google.com/p/bjspell/) JavaScript based
+    spell checker compatible with Hunspell dictionaries
+
+  * [Hyphenator.js](http://code.google.com/p/hyphenator/) Javascript that implements client-side hyphenation of HTML-Documents
+
+  * [Hypher](http://www.bramstein.com/projects/hypher/)
+    JavaScript hyphenation engine ([Github](https://github.com/bramstein/Hypher))
+
+  * [jspos](https://code.google.com/p/jspos/) is a Javascript port of
+    [Mark Watson's FastTag](http://www.markwatson.com/opensource/) part of speech tagger
+
+  * [TextStatistics.js](https://github.com/cgiffard/TextStatistics.js)
+    generates information about texts including syllable counts and
+    Flesch-Kincaid, Gunning-Fog, Coleman-Liau, SMOG and Automated Readability
+    scores (English only)
+    (a port of [TextStatistics.php](https://github.com/DaveChild/Text-Statistics))
+
+  * [Typo.js](http://www.chrisfinke.com/2011/03/31/announcing-typo-js-client-side-javascript-spellchecking/)
+    Client-side JavaScript Spellchecking
+
 ## Ruby
 
   * [Completeness-Fu](http://github.com/joshk/completeness-fu)
@@ -128,7 +156,14 @@ Rails 3:
     with a Bayesian Chain Rule evaluator and a hidden Markov model to categorize
     data with up to a 99.87% accuracy.
 
+  * [ffi-hunspell](https://github.com/postmodern/ffi-hunspell),
+    Ruby FFI bindings for [Hunspell](http://hunspell.sourceforge.net)
+
   * Ruby [Linguistics](http://www.deveiate.org/projects/Linguistics/) Framework
+
+  * [treetagger-ruby](https://github.com/arbox/treetagger-ruby) a Ruby based
+    wrapper for the [TreeTagger](http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/)
+    by Helmut Schmid which is the foundation of [LinguLab](http://www.lingulab.net/)
 
 ### Ruby + GNU Scientific Library
 
