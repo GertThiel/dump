@@ -61,12 +61,13 @@ PoolParty.rb uses Chef to deploy to Amazon's EC2 cloud service and supports auto
 
 #### Rubber
 
-Rubber is a Capistrano plug-in to deploy to Amazon's EC2 cloud service.
+Rubber is a Capistrano plug-in to deploy to Amazon's EC2 cloud service, to Digital Ocean, to SSH-accessible dedicated hosts and to Vagrant.
 
   * [Rubber](https://github.com/wr0ngway/rubber)
 
   * [How to Deploy a Rails app to EC2 in less than an hour using Rubber](http://ginzametrics.com/deploy-rails-app-to-ec2-with-rubber.html)
 
+  * [Rubber w/ Vagrant](https://github.com/rubber/rubber/wiki/Running-with-vagrant)
 
 ### AWS Elastic Beanstalk
 
@@ -81,6 +82,8 @@ Rubber is a Capistrano plug-in to deploy to Amazon's EC2 cloud service.
 Vagrant uses Chef or Puppet to deploy to virtual machines using [VirtualBox](http://www.virtualbox.org/).
 
   * [Vagrant](http://vagrantup.com/)
+
+  * [Vagrant boxes](http://www.vagrantbox.es/)
 
   * [Creating a Local Riak Cluster with Vagrant and Chef](http://blog.basho.com/2011/02/04/creating-a-local-riak-cluster-with-vagrant-and-chef/)
 
