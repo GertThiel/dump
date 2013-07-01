@@ -302,6 +302,12 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [SEPA - Der einheitliche Euro-Zahlungsverkehrsraum](http://www.bundesbank.de/zahlungsverkehr/zahlungsverkehr_sepa.php)
 
+# Web Server
+
+  * [Hiawatha](http://hiawatha-webserver.org/)
+
+    [HOWTO : Highest secured Hiawatha Web Server 9.0 on Ubuntu 12.04 LTS Server](http://secure-ubuntu-server.blogspot.hk/2013/03/howto-highest-secured-hiawatha-web.html)
+
 # Misc
 
   * [Backup](http://github.com/meskyanichi/backup/) Databases and Files
@@ -312,6 +318,10 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Ernie](http://github.com/mojombo/ernie) is an Erlang/Ruby
     [BERT-RPC](http://bert-rpc.org/) Server
+
+  * [Fail2ban](http://www.fail2ban.org/wiki/index.php/Main_Page) scans log files
+    (e.g. `/var/log/apache/error_log`) and bans IPs that show the malicious signs
+    — too many password failures, seeking for exploits, etc
 
   * [git-flow](http://github.com/nvie/gitflow) is a collection of Git extensions
     to provide high-level repository operations for Vincent Driessen's

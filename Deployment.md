@@ -1,10 +1,23 @@
 # Deployment
 
+  * [Ansible](http://www.ansibleworks.com/) ([Documentation](http://www.ansibleworks.com/docs/)) ([Github](https://github.com/ansible/ansible))
+
+    [Configuration management with Ansible](http://jpmens.net/2012/06/06/configuration-management-with-ansible/)
+
+    [vagrant-ansible](https://github.com/dsander/vagrant-ansible)
+
+    [Multi Server Flask Application Development Environment with Vagrant and Ansible](http://mattupstate.com/python/devops/2012/08/30/multi-server-flask-application-development-enviornment-with-vagrant-and-ansible.html),
+    [Gihub](https://github.com/mattupstate/vagrant-ansible-tutorial)
+
   * [BOSH](https://github.com/cloudfoundry/bosh)
 
     Dr Nic's [Getting Started with BOSH has never been easier](https://github.com/drnic/bosh-getting-started)
 
   * Capistrano
+
+  * [Mina](http://nadarei.co/mina/) ([Github](https://github.com/nadarei/mina))
+
+    [mina-sidekiq](https://github.com/Mic92/mina-sidekiq)
 
   * [Sprinkle](http://github.com/crafterm/sprinkle) is a software provisioning
     tool you can use to build remote servers with. eg. to install a Rails, or
@@ -78,5 +91,7 @@ Vagrant uses Chef or Puppet to deploy to virtual machines using [VirtualBox](htt
   * [Vagrant VBox for Jenkins](https://github.com/abtris/vagrant-hudson)
 
   * [Using Vagrant with the Opscode Platform](http://wiki.opscode.com/display/chef/Vagrant)
+
+  * [vagrant-joyent](https://github.com/someara/vagrant-joyent), [vagrant-smartos](https://github.com/joshado/vagrant-smartos)
 
   * [VeeWee](https://github.com/jedi4ever/veewee) eases the building of Vagrant boxes
