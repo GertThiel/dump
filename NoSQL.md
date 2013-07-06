@@ -33,6 +33,31 @@
       based on [TOPCASED](http://www.topcased.org/),
       based on [Eclipse EMF](http://www.eclipse.org/modeling/)
 
+  * More
+
+    * [Alfresco Form-Model Management](http://code.google.com/p/alfresco-form-model-management/)
+
+    * [Alvex](http://www.alvexcore.com/en/) is an open source Alfresco-based
+      solution for managing dynamic and unstructured business processes
+
+    * [Chef cookbook](https://github.com/fnichol/chef-alfresco) to install
+      Alfresco Community Edition, vergl.
+      [**vagrant**-alfresco](https://github.com/dot/vagrant-alfresco)
+
+    * [Alfresco **Datalist Extension**s for Share](http://www.contentreich.de/alfresco-extended-datalists-migrated-to-4-0)
+      ./.
+      [fme **Datalist extension**](http://alfresco.fme.de/extension-gallery/overview/datalist-extension/)
+
+    * [Alfresco **MetaDBConnector** Component](http://code.google.com/p/alfresco-metadbconnector/)
+      allows you to link complex database information with your content's metadata in Alfresco
+
+    * [Mixing **Grails** and Alfresco Share](http://www.contentreich.de/mixing-grails-and-alfresco-share)
+      w/ [Alfresco Share Grails Plugin](http://addons.alfresco.com/addons/alfresco-share-grails-plugin)
+
+      [Groovy Webscripts](http://code.google.com/p/alfresco-groovy-webscripts/)
+
+    * [Scan-Client für Alfresco](http://www.ic-solution.de/loesungen/Scan-client-fuer-alfresco/)    * [Scan-Client für Alfresco](http://www.ic-solution.de/loesungen/Scan-client-fuer-alfresco/)
+
 ## CouchDB
 
   * [Apache CouchDB](http://couchdb.apache.org/)
