@@ -7,6 +7,8 @@ Search for
 
 ## Backup ##
 
+[Barman](http://www.pgbarman.org): disaster recovery for business critical PostgreSQL databases
+
 Heroku's [WAL-E](https://github.com/heroku/WAL-E)
 
 

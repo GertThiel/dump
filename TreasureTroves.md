@@ -334,10 +334,6 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     Liquid syntax highlighting for the amazing
     [CodeMirror](http://marijn.haverbeke.nl/codemirror/) HTML source code editor
 
-  * NAS: [FreeNAS](http://www.freenas.org) or [NAS4Free](http://www.nas4free.org)
-
-    [Amahi Home Server](http://www.amahi.org), [napp-it](http://www.napp-it.org)
-
   * A more interactive Stanza frontend could be build upon
     [Node.JS](http://nodejs.org/), [Express](http://expressjs.com/),
     [Socket.IO](http://socket.io/), all three foundation of

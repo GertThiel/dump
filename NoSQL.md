@@ -8,6 +8,13 @@
     [Planet](http://blogs.alfresco.com/planet/),
     [Webcasts](http://blogs.alfresco.com/wp/webcasts/)
 
+    [ServerFault](http://serverfault.com/tags/alfresco),
+    [StackOverflow](http://stackoverflow.com/questions/tagged/alfresco)
+
+    Youtube channels of interest:
+    [alfresco101](http://www.youtube.com/user/alfresco101),
+    [jeffpotts01](http://www.youtube.com/user/jeffpotts01)
+
   * Alternative front ends
 
     * [DoCASU](http://docasu.sourceforge.net/) uses [Ext JS](http://www.extjs.com/) 2.0
@@ -23,9 +30,13 @@
 
     * [Kofax](http://www.kofax.com/de/) [Release Script](http://wiki.alfresco.com/wiki/Kofax_Release_Script)
 
+    * Mule [CMIS Connector](http://www.mulesoft.org/connectors/cmis-cloud-connector)
+
     * Rails [CMIS Framework](http://code.google.com/p/railscmis/)
 
   * Misc
+
+    * [contentreich](http://www.contentreich.de/)
 
     * Jeff Potts [ecmarchitect.com](http://ecmarchitect.com/) site
 
@@ -44,6 +55,8 @@
       Alfresco Community Edition, vergl.
       [**vagrant**-alfresco](https://github.com/dot/vagrant-alfresco)
 
+    * [Crafter CMS](http://www.craftercms.org) (was Crafter Rivet)
+
     * [Alfresco **Datalist Extension**s for Share](http://www.contentreich.de/alfresco-extended-datalists-migrated-to-4-0)
       ./.
       [fme **Datalist extension**](http://alfresco.fme.de/extension-gallery/overview/datalist-extension/)
@@ -56,7 +69,10 @@
 
       [Groovy Webscripts](http://code.google.com/p/alfresco-groovy-webscripts/)
 
-    * [Scan-Client für Alfresco](http://www.ic-solution.de/loesungen/Scan-client-fuer-alfresco/)    * [Scan-Client für Alfresco](http://www.ic-solution.de/loesungen/Scan-client-fuer-alfresco/)
+    * [Scan-Client für Alfresco](http://www.ic-solution.de/loesungen/Scan-client-fuer-alfresco/)
+
+    * [semantics4alfresco](http://code.google.com/p/semantics4alfresco/)
+      integrating Alfresco w/ Apache Stanbol and OpenCalais
 
 ## CouchDB
 

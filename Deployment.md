@@ -35,12 +35,26 @@
 
   * Gigaspaces [Cloudify](http://www.cloudifysource.org/)
 
+  * Apache [CloudStack](http://cloudstack.apache.org)
+
+  * [DevStack](http://devstack.org) is a documented shell script to build complete [OpenStack](http://www.openstack.org) development environments
+
   * [JoyentCloud](http://www.joyentcloud.com/) is build on
     [SmartDataCenter](http://www.joyent.com/products/smartdatacenter/)
 
   * Red Hat [OpenShift](http://openshift.redhat.com/) is available as
     [OpenShift Origin](https://openshift.redhat.com/app/opensource/download)
     LiveCD
+
+### Virtualization as local clouds
+
+  * [OpenNode Cloud Platform](http://opennodecloud.com)
+
+  * [openQRM](http://www.openqrm.com/)
+
+    [Aufbau einer Hosted Private Cloud mit der Open-Source Cloud Computing Infrastrukturlösung openQRM](http://clouduser.de/insights/aufbau-einer-hosted-private-cloud-mit-der-open-source-cloud-computing-infrastrukturlosung-openqrm-20562)
+
+  * [Proxmox VE](http://www.proxmox.com/proxmox-ve)
 
 ### AWS EC2
 
