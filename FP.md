@@ -10,9 +10,11 @@
 
 [Current state of Erlang web development? Frameworks, Template languages](http://stackoverflow.com/questions/1822518/current-state-of-erlang-web-development-frameworks-template-languages)
 
-  * [Chicago Boss Web Framework](http://chicagoboss.org/)
+  * [Chicago Boss](http://chicagoboss.org/)
 
-  * [Nitrogen Web Framework](http://nitrogenproject.com/)
+  * [Nitrogen](http://nitrogenproject.com/)
+
+  * [Zotonic](http://zotonic.com/) ([Github](https://github.com/zotonic/zotonic))
 
 ## Haskell
 

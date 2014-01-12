@@ -57,6 +57,14 @@
   * [atompub-server](http://github.com/calavera/atompub-server) to add
     AtomPub server capabilities to your Rails application
 
+## CMIS
+
+  * [activecmis](https://github.com/xaop/activecmis)
+
+  * [cmis](https://github.com/ricn/cmis) client for JRuby
+
+  * [yaccl](https://rubygems.org/gems/yaccl)
+
 ## WebDAV
 
 Rails 2:
@@ -95,6 +103,8 @@ Rails 3:
 
 # Linguistics + Statistics
 
+[Natural Language Processing Tools](http://www.phontron.com/nlptools.php)
+
 ## Algorithmen
 
   * Plagiarism detection algorithms
@@ -108,12 +118,32 @@ Rails 3:
 
     * Winnowing
 
-## Java
+## Java / JVM
 
-  * [Gate](http://gate.ac.uk/) General Architecture for Text Engineering
+  * [FrameNet](http://framenet.icsi.berkeley.edu/)
+
+  * [GATE](http://gate.ac.uk/) General Architecture for Text Engineering
 
   * [LingPipe](http://alias-i.com/lingpipe/) is a suite of Java libraries for
     the linguistic analysis of human language
+
+  * [MALLET](http://mallet.cs.umass.edu/)
+
+  * Apache [OpenNLP](http://opennlp.apache.org/)
+
+    * [Chalk](http://jasonbaldridge.github.io/chalk/): [Jason Baldridge](http://www.jasonbaldridge.com/)'s Scala spinoff from [OpenNLP](http://opennlp.apache.org/) ([GitHub](https://github.com/scalanlp/chalk))
+
+        [Jason Baldridge](http://bcomposes.wordpress.com/)'s Weblog
+
+        See also the code examples at [Incorporating and using OpenNLP in Scalabha’s SBT build system](http://bcomposes.wordpress.com/2012/04/10/incorporating-and-using-opennlp-in-scalabhas-sbt-build-system/)
+
+    * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp): Clojure wrapper
+
+  * [ScalaNLP](http://www.scalanlp.org/) ([GitHub](https://github.com/scalanlp))
+
+  * [Stanford NLP](http://nlp.stanford.edu/)
+
+  * Apache [UIMA](http://uima.apache.org/)
 
 ## Javascript
 
@@ -142,6 +172,22 @@ Strip HTML from text ([Source](http://stackoverflow.com/questions/822452/strip-h
 
   * [Typo.js](http://www.chrisfinke.com/2011/03/31/announcing-typo-js-client-side-javascript-spellchecking/)
     Client-side JavaScript Spellchecking
+
+## Python
+
+  * [NLTK](http://nltk.org/)
+
+  To integrate a Python library like the NLTK with JVM-based application we could resort to
+
+  * [Jepp](http://jepp.sourceforge.net/): Java Embedded Python
+
+  * [JPE](http://jpe.sourceforge.net/): Java-Python Extension
+
+  * [JPype](http://jpype.sourceforge.net/) ([GitHub](https://github.com/originell/jpype))
+
+  * <del>[Jython](http://www.jython.org/): Python for the Java Platform</del>
+
+  See also [Communication between Java and Python](http://wiki.danse.us/danse/index.php?title=Communication_between_Java_and_Python)
 
 ## Ruby
 
@@ -339,17 +385,79 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     [Socket.IO](http://socket.io/), all three foundation of
     [Zappa](http://github.com/mauricemach/zappa),
     and [NowJS](http://nowjs.com/). See also
-    [Derby](http://derbyjs.com/) ([Github](https://github.com/codeparty/derby)),
+    [Derby](http://derbyjs.com/) ([GitHub](https://github.com/codeparty/derby)),
     [Meteor](http://meteor.com/) and
-    [SocketStream](http://www.socketstream.org/) ([Github](http://github.com/socketstream/socketstream)).
+    [SocketStream](http://www.socketstream.org/) ([GitHub](http://github.com/socketstream/socketstream)) ([SocketStream 0.4](https://github.com/socketstream/socketstream-0.4)).
     And [vert.x](http://vertx.io/).
 
     [batman.js](http://batmanjs.org/),
-    [Joosy](http://joosy.ws/) ([Github](https://github.com/roundlake/joosy))
+    [Joosy](http://joosy.ws/) ([GitHub](https://github.com/roundlake/joosy))
 
-    Scala based alternatives:
-    [Lift Framework](http://liftweb.net/),
-    [Play Framework](http://www.playframework.org/)
+  * A pure Stanza API server with an separate web frontend could be built using
+
+    * [Clojure](http://clojure.org/)
+
+        * Full Stack Frameworks
+
+            * [ClojureScript One](http://clojurescriptone.com/) is both a tutorial and a sample single page web application using [Compojure](https://github.com/weavejester/compojure), [Enlive](https://github.com/cgrand/enlive) and [Domina](https://github.com/levand/domina)
+            * [Conjure](https://github.com/macourtney/Conjure) is a Rails like framework
+            * [octohipster](https://github.com/myfreeweb/octohipster) is a toolkit to build REST API servers with JSON Schema and Swagger documentation, uses [Liberator](https://github.com/clojure-liberator/liberator)
+            * [Pedestal](http://pedestal.io/)
+
+        * Toolkits
+
+            * [Compojure](https://github.com/weavejester/compojure)
+            * [HTTP Kit](http://http-kit.org/)
+            * [Noir](http://www.webnoir.org/) has been deprecated but lives on as [lib-noir](https://github.com/noir-clojure/lib-noir), which is used very nicely with [Compojure](https://github.com/weavejester/compojure)
+
+            [Ring 3rd-party libraries](https://github.com/ring-clojure/ring/wiki/Third-Party-Libraries)
+
+        * Database Access
+
+            * [Yesql](https://github.com/krisajenkins/yesql) is a Clojure library _for_ using SQL queries
+
+    * [Scala](http://www.scala-lang.org/) and the [Akka](http://akka.io/) framework and
+
+        * Full Stack Frameworks
+
+            * [Circumflex](http://www.circumflex.ru/) ([GitHub](https://github.com/inca/circumflex)), includes [Docco](http://circumflex.ru/projects/docco/index.html) for literate programming
+            * [Lift](http://liftweb.net/) ([Blog](http://lift.la/), [Wiki](https://www.assembla.com/spaces/liftweb/wiki)), [View First](https://www.assembla.com/wiki/show/liftweb/View_First)
+            * [Play](http://www.playframework.org/)
+            * [Xitrum](http://ngocdaothanh.github.io/xitrum/) is an async and clustered Scala web framework and HTTP server on top of [Netty](http://netty.io/), [Akka](http://akka.io/), and [Hazelcast](http://www.hazelcast.com/) ([GitHub](https://github.com/ngocdaothanh/xitrum)); supports the SockJS, WebSocket protocols
+
+        * Toolkits
+
+            * [BlueEyes](https://github.com/jdegoes/blueeyes)
+            * [Scalatra](http://scalatra.org/) ([GitHub](https://github.com/scalatra/scalatra)) supports [Swagger](https://developers.helloreverb.com/swagger/)
+            * [spray](http://spray.io/)
+            * [Socko Web Server](http://sockoweb.org/) supports [Swagger](https://developers.helloreverb.com/swagger/) and the SPDY, WebSocket protocols
+            * [Unfiltered](http://unfiltered.databinder.net/)
+
+        * Database Access
+
+            * [O/R Broker](http://www.orbroker.org) uses plain **SQL**
+            * [Slick](http://slick.typesafe.com/)
+
+        Other [Tools and Libraries](https://wiki.scala-lang.org/display/SW/Tools+and+Libraries) at the [Scala Wiki](https://wiki.scala-lang.org/)
+
+        [Hacking Scala](http://hacking-scala.tumblr.com/) incl. an [introductory presentation](http://hacking-scala.tumblr.com/post/49090249019/introductory-scala-presentation), [Programming Scala](http://programmingscala.com/) ([OFPS](http://ofps.oreilly.com/titles/9780596155957/), [Retooling…](http://bplawler.tumblr.com/) has learning reflections), [Scala Tips](http://scalatips.tumblr.com/)
+
+        Twitter's [Scala School](http://twitter.github.io/scala_school/), [Effective Scala](http://twitter.github.com/effectivescala/)
+
+    * Or using [Go](http://golang.org/) ([The Case For Go](https://gist.github.com/ungerik/3731476)) and
+
+        * [Beego](http://beego.me/)
+        * [ego](http://egoframework.org/docs)
+        * [go-restful](https://github.com/emicklei/go-restful) supports [Swagger](https://developers.helloreverb.com/swagger/) ([Example](https://github.com/emicklei/go-restful/blob/master/examples/restful-user-service.go))
+        * [go-start](https://github.com/ungerik/go-start)
+        * [goku](http://qleelulu.github.io/goku/)
+        * [Gorilla](http://www.gorillatoolkit.org/)
+        * [JAS](https://github.com/coocood/jas) router do not use regular expressions, the routing performance would be constant as you define more resource and methods
+        * [Revel](http://robfig.github.io/revel/)
+        * [Seven5](http://seven5.github.io/seven5/) ([GitHub](https://github.com/seven5/seven5/))
+        * [Web.go](http://webgo.io/) ([GitHub](https://github.com/hoisie/web))
+
+      * The TechEmpower [Web Framework Benchmarks](http://www.techempower.com/benchmarks/) offer detailed hints of the performance these frameworks offer
 
   * [Piwik](http://piwik.org/) is a real time web analytics software (GPL)
 
