@@ -401,6 +401,7 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
             * [ClojureScript One](http://clojurescriptone.com/) is both a tutorial and a sample single page web application using [Compojure](https://github.com/weavejester/compojure), [Enlive](https://github.com/cgrand/enlive) and [Domina](https://github.com/levand/domina)
             * [Conjure](https://github.com/macourtney/Conjure) is a Rails like framework
+            * [Hoplon](http://hoplon.io/)
             * [octohipster](https://github.com/myfreeweb/octohipster) is a toolkit to build REST API servers with JSON Schema and Swagger documentation, uses [Liberator](https://github.com/clojure-liberator/liberator)
             * [Pedestal](http://pedestal.io/)
 
@@ -458,6 +459,8 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
         * [Web.go](http://webgo.io/) ([GitHub](https://github.com/hoisie/web))
 
       * The TechEmpower [Web Framework Benchmarks](http://www.techempower.com/benchmarks/) offer detailed hints of the performance these frameworks offer
+
+      * [GoConvey](http://smartystreets.github.io/goconvey/) is test-driven-development in Go, in the browser. It has a gorgeous web ui, and is really what testing ought to look like
 
   * [Piwik](http://piwik.org/) is a real time web analytics software (GPL)
 

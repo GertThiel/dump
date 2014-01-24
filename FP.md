@@ -1,10 +1,38 @@
 # Functional Programming
 
+## Elixir
+
+  * [Elixir](http://elixir-lang.org/) is a functional, meta-programming aware language built on top of the Erlang VM
+
+    [Trending Elixir repositories on GitHub](https://github.com/trending?l=elixir)
+
+### Libraries
+
+  * [amnesia](https://github.com/meh/amnesia) — a [mnesia](http://www.erlang.org/doc/man/mnesia.html) wrapper
+
+  * [Ecto](https://github.com/elixir-lang/ecto) — a database wrapper and language integrated query
+
+  * [Postgrex](http://ericmj.github.io/postgrex/) — a PostgreSQL driver ([Github](https://github.com/ericmj/postgrex))
+
+### Web Frameworks
+
+  * [Dynamo](https://github.com/dynamo/dynamo)
+
+  * [Weber](http://0xax.github.io/weber/) ([Author's Weblog](http://0xax.blogspot.de/search/label/Weber), [Github](https://github.com/0xAX/weber))
+
 ## Erlang
 
   * [Erlang](http://www.erlang.org/)
 
-  * [Erjang](http://www.erjang.org/) — a JVM-based Erlang VM
+    [Trending Erlang repositories on GitHub](https://github.com/trending?l=erlang)
+
+  * [Erjang](http://www.erjang.org/) — a JVM-based Erlang VM ([Github](https://github.com/trifork/erjang))
+
+### Libraries
+ 
+  * [Erlectricity](https://github.com/mojombo/erlectricity) allows a **Ruby** program to receive and respond to Erlang messages sent over the Erlang binary protocol
+
+  * [ErlPort](http://erlport.org/) connects Erlang to **Python** and **Ruby** ([Github](https://github.com/hdima/erlport))
 
 ### Web Frameworks
 
