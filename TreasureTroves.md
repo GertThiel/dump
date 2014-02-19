@@ -103,7 +103,15 @@ Rails 3:
 
 # Linguistics + Statistics
 
+[Linguistics @ StackExchange](http://linguistics.stackexchange.com/)
+
+[Natural Language Toolkit](http://www.nltk.org/) is a book, too
+
 [Natural Language Processing Tools](http://www.phontron.com/nlptools.php)
+
+[NLP @ StackOverflow](http://stackoverflow.com/questions/tagged/nlp)
+
+[Stanford NLP Annotated List of Resources](http://www-nlp.stanford.edu/links/statnlp.html)
 
 ## Algorithmen
 
@@ -124,8 +132,12 @@ Rails 3:
 
   * [GATE](http://gate.ac.uk/) General Architecture for Text Engineering
 
+  * [LanguageTool](https://www.languagetool.org/) is an Open Source proof­reading soft­ware for English, French, German, Polish, and more than 20 other languages ([Github](https://github.com/languagetool-org/)) LGPL
+
   * [LingPipe](http://alias-i.com/lingpipe/) is a suite of Java libraries for
     the linguistic analysis of human language
+
+  * [Link Grammar](http://www.abisource.com/projects/link-grammar/)
 
   * [MALLET](http://mallet.cs.umass.edu/)
 
@@ -138,6 +150,8 @@ Rails 3:
         See also the code examples at [Incorporating and using OpenNLP in Scalabha’s SBT build system](http://bcomposes.wordpress.com/2012/04/10/incorporating-and-using-opennlp-in-scalabhas-sbt-build-system/)
 
     * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp): Clojure wrapper
+
+  * [Pattern](http://www.clips.ua.ac.be/pattern) and the [pattern.de](http://www.clips.ua.ac.be/pages/pattern-de) module contains a fast part-of-speech tagger for German (identifies nouns, adjectives, verbs, etc. in a sentence) and tools for German verb conjugation and noun singularization & pluralization
 
   * [ScalaNLP](http://www.scalanlp.org/) ([GitHub](https://github.com/scalanlp))
 
