@@ -128,6 +128,8 @@ Rails 3:
 
 ## Java / JVM
 
+  * [After the Deadline](http://www.afterthedeadline.com/) is an Open Source proof­reading soft­ware for English, French, German, Portuguese and Spanish. Server (Server sources @ [SVN repos](https://openatd.svn.wordpress.org/atd-server); Client sources @ [Github](https://github.com/search?q=%40Automattic+atd)) GPL, Client Libraries: LGPL
+
   * [FrameNet](http://framenet.icsi.berkeley.edu/)
 
   * [GATE](http://gate.ac.uk/) General Architecture for Text Engineering
