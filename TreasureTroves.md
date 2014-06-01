@@ -454,6 +454,13 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
             * [Play](http://www.playframework.org/)
             * [Xitrum](http://ngocdaothanh.github.io/xitrum/) is an async and clustered Scala web framework and HTTP server on top of [Netty](http://netty.io/), [Akka](http://akka.io/), and [Hazelcast](http://www.hazelcast.com/) ([GitHub](https://github.com/ngocdaothanh/xitrum)); supports the SockJS, WebSocket protocols
 
+        * Akka extensions
+
+            * [activator-akka-distributed-workers](https://github.com/typesafehub/activator-akka-distributed-workers)
+            * [akka-quartz-scheduler](https://github.com/typesafehub/akka-quartz-scheduler)
+
+        [Introduction to Akka Persistence](http://krasserm.blogspot.de/2013/12/introduction-to-akka-persistence.html)
+
         * Toolkits
 
             * [BlueEyes](https://github.com/jdegoes/blueeyes)
@@ -465,6 +472,7 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
         * Database Access
 
             * [O/R Broker](http://www.orbroker.org) uses plain **SQL**
+            * [Prequel](https://github.com/jpersson/prequel) uses plain **SQL**
             * [Slick](http://slick.typesafe.com/)
 
         Other [Tools and Libraries](https://wiki.scala-lang.org/display/SW/Tools+and+Libraries) at the [Scala Wiki](https://wiki.scala-lang.org/)
