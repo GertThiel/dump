@@ -110,6 +110,8 @@ which calculates similarity of arrays for PostgreSQL 9.1+
 
     git clone git://sigaev.ru/smlar
 
+or [ssdeep_psql](https://github.com/bernerdschaefer/ssdeep_psql)
+
 The Homebrew formular for [PLV8](https://code.google.com/p/plv8js/) at
 [will/homebrew](https://github.com/will/homebrew/commit/0053e3b78bf36d20822a6da966064c905bb3c4b4)
 could be a blueprint for my `smlar` formular

@@ -418,20 +418,32 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
             * [ClojureScript One](http://clojurescriptone.com/) is both a tutorial and a sample single page web application using [Compojure](https://github.com/weavejester/compojure), [Enlive](https://github.com/cgrand/enlive) and [Domina](https://github.com/levand/domina)
             * [Conjure](https://github.com/macourtney/Conjure) is a Rails like framework
             * [Hoplon](http://hoplon.io/)
+            * [Luminus](http://www.luminusweb.net/)
             * [octohipster](https://github.com/myfreeweb/octohipster) is a toolkit to build REST API servers with JSON Schema and Swagger documentation, uses [Liberator](https://github.com/clojure-liberator/liberator)
             * [Pedestal](http://pedestal.io/)
 
         * Toolkits
 
-            * [Compojure](https://github.com/weavejester/compojure)
+            * [Compojure](https://github.com/weavejester/compojure) mit [compojure-api](https://github.com/metosin/compojure-api)
+            * [Fnhouse](https://github.com/Prismatic/fnhouse) mit [fnhouse-swagger](https://github.com/metosin/fnhouse-swagger)
             * [HTTP Kit](http://http-kit.org/)
-            * [Noir](http://www.webnoir.org/) has been deprecated but lives on as [lib-noir](https://github.com/noir-clojure/lib-noir), which is used very nicely with [Compojure](https://github.com/weavejester/compojure)
+            * [Ganelon](http://ganelon.tomeklipski.com/) is a microframework bringing instant development of AJAX-enabled web applications to Clojure/Ring
+            * [Noir](http://www.webnoir.org/) has been deprecated but lives on as [lib-noir](https://github.com/noir-clojure/lib-noir), which is used very nicely with [Compojure](https://github.com/weavejester/compojure) and is now basis of [Luminus](http://www.luminusweb.net/)
 
             [Ring 3rd-party libraries](https://github.com/ring-clojure/ring/wiki/Third-Party-Libraries)
 
         * Database Access
 
             * [Yesql](https://github.com/krisajenkins/yesql) is a Clojure library _for_ using SQL queries
+
+        * Directories of Clojure libraries
+
+            * [Clojars](https://clojars.org/)
+            * [ClojureWerkz](http://clojurewerkz.org/)
+
+        [Clojure Documentation](http://clojure-doc.org/) is a community-driven documentation site for the Clojure programming language
+
+        [Drip](https://github.com/flatland/drip) is a launcher for the Java Virtual Machine that provides much faster startup times than the `java` command. The `drip` script is intended to be a drop-in replacement for the `java` command, only faster.
 
     * [Scala](http://www.scala-lang.org/) and the [Akka](http://akka.io/) framework and
 
