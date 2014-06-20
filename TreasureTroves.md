@@ -441,7 +441,9 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
             * [Clojars](https://clojars.org/)
             * [ClojureWerkz](http://clojurewerkz.org/)
 
-        [Clojure Cookbook](http://clojure-cookbook.com/) ([GitHub](https://github.com/clojure-cookbook/clojure-cookbook)), [Clojure Documentation](http://clojure-doc.org/) is a community-driven documentation site for the Clojure programming language
+        [Clojure Cookbook](http://clojure-cookbook.com/) ([GitHub](https://github.com/clojure-cookbook/clojure-cookbook)), [Clojure Documentation](http://clojure-doc.org/) is a community-driven documentation site for the Clojure programming language, [Clojure vs. Scala](https://news.ycombinator.com/item?id=6958983)
+
+        [Clojure web server shoot-out](https://github.com/ptaoussanis/clojure-web-server-benchmarks)
 
         [Destructuring in Clojure](http://alexander-hill.tumblr.com/post/85734638290/destructuring-in-clojure), [Micro services on the JVM part 1 - Clojure](http://pjagielski.pl/2014/02/24/microservices-jvm-clojure/), [XML manipulation in Clojure](http://blog.korny.info/2014/03/08/xml-for-fun-and-profit.html)
 
