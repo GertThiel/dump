@@ -131,6 +131,52 @@
 
   * Max Lapshin wrote a related [Ruby driver](http://intersys.rubyforge.org/)
 
+## Java Content Repository (JCR)
+
+See also [JCR Links](http://wiki.apache.org/jackrabbit/JcrLinks)
+
+### JCR Implementations
+
+  * Apache [Jackrabbit](http://jackrabbit.apache.org/), [Jackrabbit Oak](http://jackrabbit.apache.org/oak/)
+
+  * JBoss [ModeShape](http://modeshape.jboss.org/), [Blog](http://modeshape.wordpress.com/category/open-source/)
+
+### JCR Based Frameworks
+
+  * Apache [Sling](http://sling.apache.org/), [Cheatsheet](http://dev.day.com/content/docs/en/cq/current/developing/sling_cheatsheet.html)
+
+    Apache Sling is the foundation of
+
+      * Adobe [AEM](www.adobe.com/go/aem) fka Adobe CQ fka Day CQ5 fka Day Communiqué
+
+        …Adobe CQ is the most expensive CMS. Adobe said during their recent partner summit that the average CQ deal is [$450,000](http://www.acquia.com/blog/why-are-mid-market-companies-still-looking-adobe-cq) in license…
+
+      * Idium [Web](http://www.idium.no/produkt/idium-web/)
+
+      * [Sakai 3](http://sakaiproject.org/) ([Wiki](https://confluence.sakaiproject.org/display/CONF/Welcome+to+the+Sakai+wiki))
+
+    [Sling-Stanbol](https://github.com/retog/sling-stanbol) an Apache Sling launcher containing Apache Stanbol and a servlet offering a front-end to the Enhancer to the enhancer services; Apache [Stanbol](https://stanbol.apache.org/) provides a set of reusable components for semantic content management
+
+### JCR Tools
+
+  * [Jackrabbit Explorer](https://code.google.com/p/jackrabbitexplorer/)
+
+### Content Management Systems
+
+  * [Hippo](http://www.onehippo.com/de), [Community](http://www.onehippo.org/)
+
+  * [Jahia Digital Factory](http://www.jahia.com/products/digital-factory)
+
+    Enterprise Edition costs [$15000](http://www.jahia.com/products/digital-factory/pricing)
+
+  * [Magnolia](http://www.magnolia-cms.de/) can use ModeShape instead of Jackrabbit
+
+    Enterprise Edition costs [$1200](http://www.cmsmatrix.org/matrix/cms-matrix/magnolia-cms)
+
+    [Maglev](https://github.com/Bonheur/maglev) is a Grails plugin
+
+    [Sinicum](https://github.com/dievision/sinicum) is a Ruby (on Rails) client library to the [Sinicum Server](https://github.com/dievision/sinicum-server), a Magnolia CMS module that exposes Magnolia CMS content; see also [Magnolia and Rails](http://www.magnolia-cms.com/resources-directory/slideshows/rails-webinar.html)
+
 ## Lucene + ElasticSearch or Solr
 
 > Although Lucene is a search index, and not a database, if your fields are

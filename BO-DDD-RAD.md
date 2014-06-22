@@ -8,7 +8,15 @@
 
 [Naked Objects.NET](http://nakedobjects.codeplex.com/) ([GitHub](https://github.com/NakedObjectsGroup/NakedObjectsFramework))
 
+## Micro Services
+
+[fabric³](http://www.fabric3.org/)
+
+[fabric8](http://fabric8.io/)
+
 ## Misc
+
+[Eclipse Scout](http://www.eclipse.org/scout/), [Eclipse Scout Blog](http://www.bsiag.com/scout/), [BSI](http://www.bsiag.com/de/technologien/eclipse-scout.html)
 
 [JVx](http://www.sibvisions.com/de/jvx)
 

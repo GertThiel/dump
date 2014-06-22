@@ -30,7 +30,7 @@ formerly known as _Groovy on Rails_, a name giving a good hint what Grails is al
 
 ## User Interfaces
 
-AngularJS
+[Arrested](http://grails.org/plugin/arrested) generates RESTful controllers for domain classes and maps them in UrlMappings, generates single-page __AngularJS__-based views, and provides simple token-based security
 
 Vaadin
 
@@ -42,9 +42,15 @@ Vaadin
 
 [Executor](http://grails.org/plugin/executor) will run asynchronous / concurrent threads
 
+[GVM](http://gvmtool.net/) the Groovy enVironment Manager
+
 [hawtio](http://hawt.io/) is a modular web console for managing your Java stuff
 
 [Jesque](http://grails.org/plugin/jesque) is an implementation of __[Resque](https://github.com/resque/resque)__ in Java, [Jesque Web](http://grails.org/plugin/jesque-web)
+
+Microsoft __Excel__ files: [Apache POI](http://poi.apache.org/spreadsheet/)
+
+Microsoft __Word__ files: [docx4j](http://www.docx4java.org/)
 
 [Quartz](http://www.grails.org/plugin/quartz) plugin adds job scheduling features, [Quartz Monitor](http://grails.org/plugin/quartz-monitor)
 
@@ -52,4 +58,8 @@ Vaadin
 
 # Missing
 
-[JSON Schema](http://json-schema.org/); [JSON Editor](https://github.com/jdorn/json-editor); [Metawidget](http://www.metawidget.org/), related posts at [Kennard Consulting's Blog](http://blog.kennardconsulting.com/search/label/Metawidget)
+[JSON Schema](http://json-schema.org/); [JSON Editor](https://github.com/jdorn/json-editor); [JSON Editor Online](http://jsoneditoronline.org/) ([GitHub](https://github.com/josdejong/jsoneditor/))
+
+[Metawidget](http://www.metawidget.org/), related posts at [Kennard Consulting's Blog](http://blog.kennardconsulting.com/search/label/Metawidget)
+
+CalDAV, CardDAV, WebDAV

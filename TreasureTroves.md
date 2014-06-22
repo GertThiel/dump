@@ -98,6 +98,8 @@ Rails 3:
     [Docco](http://jashkenas.github.com/docco/), the quick-and-dirty,
     hundred-line-long, __literate__-programming-style documentation generator
 
+  * [GitBook](https://www.gitbook.io/), [GitBook Editor](https://github.com/GitbookIO/editor)
+
   * [YARD](http://yardoc.org/) is a documentation generation tool for the
     Ruby programming language
 
