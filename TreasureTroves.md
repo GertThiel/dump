@@ -34,6 +34,26 @@
   * [Rails CMS Alternatives](http://afreshcup.com/home/2009/11/26/rails-cms-alternatives.html),
     [Gist](http://gist.github.com/242751)
 
+## Web-based XML Editors
+
+  * [CKEditor](http://ckeditor.com/).[XML](http://ckeditor.com/addon/xml)
+
+  * [FontoXML](http://www.fontoxml.com/)
+
+    649 Euro per concurrent user per year
+
+  * [\<oXygen/\> XML Editor Authoring SDK](http://www.oxygenxml.com/developer.html#XML_Editor_Authoring_SDK)
+
+  * [Xeditor](http://www.xeditor.com/)
+
+    2500 Euro + 250 Euro per named user
+
+  * SDL [Xopus](http://xopus.com/)
+
+  * [XStandard](http://xstandard.com/)
+
+    from 1.90 US$ per user for 1000 users (Σ 1899 US$) to 19.90 US$ per user for 10 users (Σ 199 US$)
+
 # Data Exchange, Import + Export
 
 ## AtomPub
