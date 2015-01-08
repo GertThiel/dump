@@ -177,6 +177,8 @@ See also [JCR Links](http://wiki.apache.org/jackrabbit/JcrLinks)
 
     [Sinicum](https://github.com/dievision/sinicum) is a Ruby (on Rails) client library to the [Sinicum Server](https://github.com/dievision/sinicum-server), a Magnolia CMS module that exposes Magnolia CMS content; see also [Magnolia and Rails](http://www.magnolia-cms.com/resources-directory/slideshows/rails-webinar.html)
 
+    [SafetyPin](https://github.com/jnraine/safety-pin) is an easy-to-use JCR connector for JRuby
+
 ## Lucene + ElasticSearch or Solr
 
 > Although Lucene is a search index, and not a database, if your fields are

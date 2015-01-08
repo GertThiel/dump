@@ -36,6 +36,8 @@ Shen Liu of ThoughtWorks, Beijing, published a
 [Rails + JCR Sample](http://github.com/wpc/jcr-rails-demo) using JRuby and
 Apache Jackrabbit.
 
+[SafetyPin](https://github.com/jnraine/safety-pin) is an easy-to-use JCR connector for JRuby
+
 ## CIFS
 
 [Alfresco JLAN Server](http://www.alfresco.com/products/aifs/) is an
