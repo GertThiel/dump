@@ -30,6 +30,10 @@
 
 [computerlinguistik.org](http://www.computerlinguistik.org/portal/portal.html?s=Ressourcen)
 
+[Frei verfügbare NLP-Tools und -Web-Services für die deutsche Sprache](http://www.ling.uni-potsdam.de/~kolb/nlp-tools.html)
+
+[VisualText](http://www.textanalysis.com/Products/VisualText/visualtext.html)
+
 ## Grundlagen
 
 ### Wikipedia
