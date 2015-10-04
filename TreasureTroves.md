@@ -544,6 +544,26 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Semantic Versioning](http://semver.org/)
 
+  * [Versioning a Ruby Object](https://stackoverflow.com/questions/6584648/versioning-a-ruby-object)
+
+        class XMLModel
+
+          def new *args
+            if self == XMLModel
+              klass = use_v1? ? XMLModelV1 : XMLModelV2
+              instance = klass.allocate
+              instance.initialize *args
+              instance         
+            else
+              super *args
+            end
+          end
+
+        end
+
+        class XMLModelV1 < XMLModel; end
+        class XMLModelV2 < XMLModel; end
+
   * [Socky](http://imanel.org/projects/socky) is a complete solution for
     realtime browser-server communication using WebSockets (where available,
     falling back to flash sockets where not)
