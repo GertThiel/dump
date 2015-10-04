@@ -32,9 +32,17 @@
 
  * Ruby CQRS aka [rcqrs](https://github.com/slashdotdash/rcqrs) with Event Sourcing
 
+[Event Sourcing Libraries in Ruby: A Guide](http://fhwang.net/g/Event-Sourcing-Libraries-in-Ruby-A-Guide) presents besides `RailsEventStore` …
+
+ * [Event Sourced Record](https://github.com/fhwang/event_sourced_record) offers an idiomatic way to use the Event Sourcing pattern in Rails code
+
+ * [Sandthorn Event Sourcing](https://github.com/Sandthorn/sandthorn) is a Ruby library for saving an object's state as a series of events, depends on Sequel
+
 ### Without libraries
 
  * [BankSimplistic](https://github.com/cavalle/banksimplistic)
+
+ * [Event sourcing on Rails with RabbitMQ](http://codetunes.com/2014/event-sourcing-on-rails-with-rabbitmq/) by Tymon Tobolski
 
 
 ## Hexagonal Architecture
