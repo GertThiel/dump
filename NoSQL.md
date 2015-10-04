@@ -300,6 +300,16 @@ and
 
   * [The state of Ruby, RDF and Rails 3](http://www.randomhacks.net/articles/2010/12/20/the-state-of-ruby-rdf-and-rails-3)
 
+## RethinkDB
+
+  * [RethinkDB](http://www.rethinkdb.com/)
+
+    [Ten-minute guide with RethinkDB and Ruby](http://www.rethinkdb.com/docs/guide/ruby/)
+
+  * [NoBrainer](http://nobrainer.io/) is an ORM for RethinkDB
+
+    [On my radar: RethinkDB + React.js + Rails](http://blog.arkency.com/2015/04/on-my-radar-rethinkdb-plus-react-dot-js-plus-rails/)
+
 ## Virtuoso
 
   * OpenLink [Virtuoso](http://virtuoso.openlinksw.com/) Universal Server
