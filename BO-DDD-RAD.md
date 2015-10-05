@@ -40,7 +40,7 @@
 
 ### Without libraries
 
- * [BankSimplistic](https://github.com/cavalle/banksimplistic)
+ * [The CQRS diet](http://de.slideshare.net/cavalle/the-cqrs-diet) by Luismi Cavallé and it's example [BankSimplistic](https://github.com/cavalle/banksimplistic)
 
  * [Event sourcing on Rails with RabbitMQ](http://codetunes.com/2014/event-sourcing-on-rails-with-rabbitmq/) by Tymon Tobolski
 
