@@ -30,7 +30,7 @@
 
    [Rails Disco: Get Down with Event Sourcing](http://www.sitepoint.com/rails-disco-get-event-sourcing/)
 
- * Ruby CQRS aka [rcqrs](https://github.com/slashdotdash/rcqrs) with Event Sourcing
+ * Ruby CQRS aka [rcqrs](https://github.com/slashdotdash/rcqrs) and [rcqrs-rails](https://github.com/slashdotdash/rcqrs-rails) with Event Sourcing
 
 [Event Sourcing Libraries in Ruby: A Guide](http://fhwang.net/g/Event-Sourcing-Libraries-in-Ruby-A-Guide) presents besides `RailsEventStore` …
 
