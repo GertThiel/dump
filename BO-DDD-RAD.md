@@ -2,13 +2,31 @@
 
 ## CQRS, ES
 
+Edument's [CQRS Starter Kit](http://cqrs.nu/)
+
+Jacek Laskowski's [Rough Notes about CQRS and ES](https://gist.github.com/jaceklaskowski/d267bf4176822293e95e) has many related links
+
+[Stream processing, Event Sourcing, Reactive, CEP … and making sense of it all](http://www.confluent.io/blog/making-sense-of-stream-processing/)
+
+### Elixir, Erlang
+
+ * Bryan Hunter's [Elixir CQRS Eventstore](https://github.com/bryanhunter/elixir_cqrs_es) is a port of his [CQRS with Erlang](https://github.com/bryanhunter/cqrs-with-erlang/tree/ndc-oslo)
+
+### Java
+
+ * [Axon Framework](http://www.axonframework.org/)
+
+   [Grails + Axon Framework = CQRS](http://blog.dblazejewski.com/2013/11/grails-axon-cqrs-part-i.html), [part 2](http://blog.dblazejewski.com/2013/11/grails-axon-cqrs-part-ii.html)
+
+### Ruby
+
 [Fast introduction to Event Sourcing for Ruby programmers](http://blog.arkency.com/2015/03/fast-introduction-to-event-sourcing-for-ruby-programmers/), [Why use Event Sourcing](http://blog.arkency.com/2015/03/why-use-event-sourcing/)
 
 [From ActiveRecord to Event Sourcing](http://de.slideshare.net/emadb/wroclove-rb) by Emanuele DelBono
 
 [Introduction to CQRS / ES with Rails](http://praglowski.com/presentations/cqrses/drug/) by Mirosław Pragłowski, his [example](https://github.com/mpraglowski/cqrses-sample/) depends on Greg's Event Store
 
-### Libraries
+#### Libraries
 
  * Greg's [Event Store](https://geteventstore.com/), the open-source, functional database with Complex Event Processing in JavaScript
 
@@ -38,12 +56,25 @@
 
  * [Sandthorn Event Sourcing](https://github.com/Sandthorn/sandthorn) is a Ruby library for saving an object's state as a series of events, depends on Sequel
 
-### Without libraries
+#### Without libraries
 
  * [The CQRS diet](http://de.slideshare.net/cavalle/the-cqrs-diet) by Luismi Cavallé and it's example [BankSimplistic](https://github.com/cavalle/banksimplistic)
 
  * [Event sourcing on Rails with RabbitMQ](http://codetunes.com/2014/event-sourcing-on-rails-with-rabbitmq/) by Tymon Tobolski
 
+### Scala
+
+ * [Scala CQRS Framework](https://stackoverflow.com/questions/8609664/scala-cqrs-framework) on Stack Overflow mentions [Akka Persistance](http://doc.akka.io/docs/akka/2.4.0/scala/persistence.html) and it's inspiration [eventsourced](https://github.com/eligosource/eventsourced)
+
+   Martin Krasser, the author of both `eventsourced` and `Akka Persistance`, wrote a blog to compare the latter with [Eventuate](https://rbmhtechnology.github.io/eventuate/) which he wrote as well
+
+ * [CQRS/ES in Scala: an overview](http://www.hyperlambda.com/posts/cqrs-es-in-scala/) lists three CQRS/ES examples in Scala:
+
+   * [CQRS with Akka actors and functional domain models](http://debasishg.blogspot.co.uk/2011/01/cqrs-with-akka-actors-and-functional.html),
+
+   * [Akka DDDD template using CQRS/ES with a Distributed Domain](https://github.com/boldradius/akka-dddd-template#master) and
+
+   * Paweł Kaczor's [ddd-leaven-akka-v2](https://github.com/pawelkaczor/ddd-leaven-akka-v2)
 
 ## Hexagonal Architecture
 
