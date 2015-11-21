@@ -12,6 +12,11 @@ Search for
 Heroku's [WAL-E](https://github.com/heroku/WAL-E)
 
 
+## OLAP ##
+
+[Basic OLAP Support in PostgreSQL 9.5](http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html)
+
+
 ## Ruby, Rails ##
 
 [Rails on PostgreSQL](http://railsonpostgresql.com/) weblog
