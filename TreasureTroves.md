@@ -152,6 +152,8 @@ Rails 3:
 
   * [After the Deadline](http://www.afterthedeadline.com/) is an Open Source proof­reading soft­ware for English, French, German, Portuguese and Spanish. Server (Server sources @ [SVN repos](https://openatd.svn.wordpress.org/atd-server); Client sources @ [Github](https://github.com/search?q=%40Automattic+atd)) GPL, Client Libraries: LGPL
 
+  * [ClearTK](https://cleartk.github.io/cleartk/) is a framework for developing machine learning and natural language processing components within the Apache [UIMA](http://uima.apache.org/)
+
   * [FrameNet](http://framenet.icsi.berkeley.edu/)
 
   * [GATE](http://gate.ac.uk/) General Architecture for Text Engineering
@@ -553,7 +555,7 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
               klass = use_v1? ? XMLModelV1 : XMLModelV2
               instance = klass.allocate
               instance.initialize *args
-              instance         
+              instance
             else
               super *args
             end
