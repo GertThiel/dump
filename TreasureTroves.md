@@ -156,6 +156,17 @@ Rails 3:
 
   * [ClearTK](https://cleartk.github.io/cleartk/) is a framework for developing machine learning and natural language processing components within the Apache [UIMA](http://uima.apache.org/)
 
+  * [DKPro](https://dkpro.github.io/) is a community of projects focussing on re-usable Natural Language Processing
+    software
+
+    * [DKPro Core](https://dkpro.github.io/dkpro-core/) is a collection of software components for
+    natural language processing (NLP) based on the Apache [UIMA](http://uima.apache.org/) framework
+
+    * [DKPro Similarity](https://dkpro.github.io/dkpro-similarity/) is an open source framework for text similarity
+
+    * [WebAnno](https://webanno.github.io/webanno/) is a general purpose web-based annotation tool for a wide range of
+      linguistic annotations
+
   * [FrameNet](http://framenet.icsi.berkeley.edu/)
 
   * [GATE](http://gate.ac.uk/) General Architecture for Text Engineering
