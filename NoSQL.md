@@ -48,7 +48,7 @@
 
     * [Alfresco Form-Model Management](http://code.google.com/p/alfresco-form-model-management/)
 
-    * [Alvex](http://www.alvexcore.com/en/) is an open source Alfresco-based
+    * [Alvex](http://www.alvexsoftware.com/en/) is an open source Alfresco-based
       solution for managing dynamic and unstructured business processes
 
     * [Chef cookbook](https://github.com/fnichol/chef-alfresco) to install

@@ -36,13 +36,15 @@
 
 ## Web-based XML Editors
 
-  * [CKEditor](http://ckeditor.com/).[XML](http://ckeditor.com/addon/xml)
+  * **[CKEditor](http://ckeditor.com/).[XML](http://ckeditor.com/addon/xml)**
 
   * [FontoXML](http://www.fontoxml.com/)
 
     649 Euro per concurrent user per year
 
   * [\<oXygen/\> XML Editor Authoring SDK](http://www.oxygenxml.com/developer.html#XML_Editor_Authoring_SDK)
+
+  * **[ProseMirror](http://prosemirror.net)** is an in-browser semantic rich text editor component
 
   * [Xeditor](http://www.xeditor.com/)
 
@@ -414,6 +416,15 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Bluepill](http://asemanfar.com/Bluepill:-a-new-process-monitoring-tool):
     a new process monitoring tool
+
+  * Business Processes / Workflow Engines for Rails
+
+    * [Rails Workflow Engine](https://github.com/madzhuga/rails_workflow)
+
+    * [RBPM](https://github.com/bmedici/rbpm) is a Ruby/Rails Business Process Management System
+
+    * [Ruote](http://ruote.io/), the one-and-only for many years, dead since Nov. 2013,
+      resurrected as [operati.ca](https://operati.ca/)
 
   * [Ernie](http://github.com/mojombo/ernie) is an Erlang/Ruby
     [BERT-RPC](http://bert-rpc.org/) Server
