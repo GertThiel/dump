@@ -81,13 +81,14 @@
 
 ## CMIS
 
-  * [activecmis](https://github.com/xaop/activecmis)
+  * [ActiveCMIS](https://github.com/xaop/activecmis) is a Ruby library aimed at easing the interaction with various
+    CMIS providers. It creates Ruby objects for CMIS objects, and creates Ruby classes that correspond to CMIS types
 
   * [cmis](https://github.com/ricn/cmis) client for JRuby
 
   * [CmisSync](http://cmissync.org/) is a Dropbox-like sync for your company's file server
 
-  * [yaccl](https://rubygems.org/gems/yaccl)
+  * [yaccl](https://rubygems.org/gems/yaccl) is a Ruby CMIS browser binding client library implementation
 
 ## WebDAV
 

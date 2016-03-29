@@ -32,7 +32,7 @@
 
     * Mule [CMIS Connector](http://www.mulesoft.org/connectors/cmis-cloud-connector)
 
-    * Rails [CMIS Framework](http://code.google.com/p/railscmis/)
+    * <del>Rails [CMIS Framework](http://code.google.com/p/railscmis/)</del>
 
   * Misc
 
@@ -165,11 +165,17 @@ See also [JCR Links](http://wiki.apache.org/jackrabbit/JcrLinks)
 
 ### Content Management Systems
 
-  * [eXo Platform](https://www.exoplatform.com/), [Slideshare](http://de.slideshare.net/exoplatform), [SourceForge](http://sourceforge.net/projects/exo/), the Enterprise Social Platform, LGPL licensed
+  * Alfresco (s.o.)
+
+  * [eXo Platform](https://www.exoplatform.com/),
+    [Slideshare](http://de.slideshare.net/exoplatform),
+    [SourceForge](http://sourceforge.net/projects/exo/),
+    the Enterprise Social Platform, LGPL licensed
 
     * [Better Task Management is Coming in eXo Platform](https://www.exoplatform.com/blog/en/2015/08/24/better-task-management-is-coming-in-exo-platform), [Task Management Preview: Calendars, Boards, Searching and more](https://www.exoplatform.com/blog/en/2015/09/23/task-management-preview-calendars-boards-searching-and-more)
 
-  * [Hippo](http://www.onehippo.com/de), [Community](http://www.onehippo.org/)
+  * [Hippo](http://www.onehippo.com/de),
+    [Community](http://www.onehippo.org/)
 
   * [Jahia Digital Factory](http://www.jahia.com/products/digital-factory)
 
@@ -181,12 +187,17 @@ See also [JCR Links](http://wiki.apache.org/jackrabbit/JcrLinks)
 
     [Maglev](https://github.com/Bonheur/maglev) is a Grails plugin
 
-    [Sinicum](https://github.com/dievision/sinicum) is a Ruby (on Rails) client library to the [Sinicum Server](https://github.com/dievision/sinicum-server), a Magnolia CMS module that exposes Magnolia CMS content; see also [Magnolia and Rails](http://www.magnolia-cms.com/resources-directory/slideshows/rails-webinar.html)
+    [Sinicum](https://github.com/dievision/sinicum) is a Ruby (on Rails) client library to the
+    [Sinicum Server](https://github.com/dievision/sinicum-server), a Magnolia CMS module that exposes
+    Magnolia CMS content; see also
+    [Magnolia and Rails](http://www.magnolia-cms.com/resources-directory/slideshows/rails-webinar.html)
 
     [SafetyPin](https://github.com/jnraine/safety-pin) is an easy-to-use JCR connector for JRuby
 
-  * [Nuxeo Platform](http://www.nuxeo.com/), [Slideshare](http://de.slideshare.net/nuxeo), Enterprise Content Management
-Platform for Business Applications, LGPL licensed
+  * [Nuxeo Platform](http://www.nuxeo.com/),
+    [Documentation](https://doc.nuxeo.com/),
+    [Slideshare](http://de.slideshare.net/nuxeo),
+    Enterprise Content Management Platform for Business Applications, Apache License, Version 2.0 licensed
 
 ## Lucene + ElasticSearch or Solr
 
