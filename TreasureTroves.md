@@ -42,6 +42,12 @@
 
     649 Euro per concurrent user per year
 
+  * [jquery.xmleditor](https://github.com/UNC-Libraries/jquery.xmleditor) is a web browser based XML editor.
+    It provides a general use graphical tool for creating new or modifying existing XML documents in your web browser.
+    Information is extracted from an XML schema (XSD file) to provide the user with information about what elements,
+    subelements and attributes are available at different points in the structure, and a GUI based means of adding or
+    removing them from the document
+
   * [\<oXygen/\> XML Editor Authoring SDK](http://www.oxygenxml.com/developer.html#XML_Editor_Authoring_SDK)
 
   * **[ProseMirror](http://prosemirror.net)** is an in-browser semantic rich text editor component
@@ -91,6 +97,10 @@
   * [yaccl](https://rubygems.org/gems/yaccl) is a Ruby CMIS browser binding client library implementation
 
 ## WebDAV
+
+  * [sabre/dav](http://sabre.io/) is an open source CardDAV, CalDAV and WebDAV server written in PHP
+
+  * [WsgiDAV](https://github.com/mar10/wsgidav) is a generic WebDAV server written in Python and based on WSGI
 
 Rails 2:
 
