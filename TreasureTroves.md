@@ -92,7 +92,8 @@
 
   * [cmis](https://github.com/ricn/cmis) client for JRuby
 
-  * [CmisSync](http://cmissync.org/) is a Dropbox-like sync for your company's file server
+  * [CmisSync](http://cmissync.org/): Dropbox-like sync for your enterprise file server
+    ([Github](https://github.com/aegif/CmisSync))
 
   * [yaccl](https://rubygems.org/gems/yaccl) is a Ruby CMIS browser binding client library implementation
 
