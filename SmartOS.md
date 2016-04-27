@@ -1,5 +1,7 @@
 # SmartOS #
 
+[SmartOS](https://smartos.org/) is DTrace + KVM + ZFS + Zones
+
 [SmartCore Blog](http://blog.smartcore.net.au/)
 
 The [Joyent (zones)](http://wiki.joyent.com/wiki/display/jpc2/The+Joyent+Linux-to-SmartOS+Cheat+Sheet) and 
@@ -9,6 +11,11 @@ The [Joyent (zones)](http://wiki.joyent.com/wiki/display/jpc2/The+Joyent+Linux-t
 
 [SmartOS and the global zone](http://www.perkin.org.uk/posts/smartos-and-the-global-zone.html) and
 [SmartOS global zone tweaks](http://www.perkin.org.uk/posts/smartos-global-zone-tweaks.html) by [Jonathan Perkin](http://www.perkin.org.uk/)
+
+## Cloud ##
+
+[Docker Engine](https://github.com/joyent/sdc-docker) for
+[SmartDataCenter](https://github.com/joyent/sdc)
 
 ## Datasets / images ##
 

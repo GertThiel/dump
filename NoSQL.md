@@ -15,6 +15,12 @@
     [alfresco101](http://www.youtube.com/user/alfresco101),
     [jeffpotts01](http://www.youtube.com/user/jeffpotts01)
 
+  * DevOps, Installation …
+
+    * [Alfresco FreeBSD Install](https://github.com/andergrim/alfresco-freebsd-install)
+
+    * [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install)
+
   * Alternative front ends
 
     * [DoCASU](http://docasu.sourceforge.net/) uses [Ext JS](http://www.extjs.com/) 2.0

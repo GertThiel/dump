@@ -569,6 +569,8 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
     [saucerly](http://github.com/wycats/saucerly),
     [saucerly](http://github.com/nicksieger/saucerly)
 
+  * [Proxmox Virtual Environment](https://www.proxmox.com/de/proxmox-ve)
+
   * [RightAWS](http://rightaws.rubyforge.org/) -
     RightScale's open-source gems provide Ruby-language interfaces to several
     cloud computing platforms
@@ -616,3 +618,5 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
   * [Custom SQL queries without find\_by\_sql](http://snippets.dzone.com/posts/show/5570)
 
   * [Supermodel](http://github.com/maccman/supermodel): Simple ActiveModel-Powered In-Memory Models
+
+  * Open Source [Tripwire](https://sourceforge.net/projects/tripwire/) Intrusion Detection System
