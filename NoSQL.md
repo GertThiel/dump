@@ -17,9 +17,14 @@
 
   * DevOps, Installation …
 
+    * Alfresco [alf_docker](https://github.com/Alfresco/alf_docker),
+      [SPK](https://github.com/Alfresco/alfresco-spk)
+
     * [Alfresco FreeBSD Install](https://github.com/andergrim/alfresco-freebsd-install)
 
     * [Alfresco Ubuntu Install](https://github.com/loftuxab/alfresco-ubuntu-install)
+
+    * Martin Cosgrave's [docker-alfresco](https://github.com/marsbard/docker-alfresco)
 
   * Alternative front ends
 
