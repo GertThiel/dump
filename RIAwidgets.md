@@ -13,6 +13,8 @@
 
   * [The Tech Behind the New Grooveshark](http://blog.jerodsanto.net/2010/12/the-tech-behind-the-new-grooveshark/)
 
+  * [CanJS](https://canjs.com/), [DoneJS](https://donejs.com/)
+
 ## jQuery
 
   * [An introduction to a Rails 3.1 Application](https://github.com/rodriguezartav/Rails-Mongo-Spine-cs-)
