@@ -29,10 +29,30 @@
 
   * [Testing validity of Rails feeds with RSpec](https://wincent.com/wiki/Testing_validity_of_Rails_feeds_with_RSpec)
 
+# Chat
+
+  * [Matrix](https://matrix.org/)
+
+    [What is the difference between Matrix and XMPP?](https://matrix.org/docs/guides/faq.html#what-is-the-difference-between-matrix-and-xmpp)
+
+  * [RocketChat](https://rocket.chat/)
+
+  * [XMPP](https://en.wikipedia.org/wiki/XMPP)
+
+    * [Vines](https://github.com/negativecode/vines) is a XMPP chat server for Ruby
+
 # Content Management Systems
 
   * [Rails CMS Alternatives](http://afreshcup.com/home/2009/11/26/rails-cms-alternatives.html),
     [Gist](http://gist.github.com/242751)
+
+## JSON Schema
+
+  * [JSON Editor](https://json-editor.tangramjs.com) and
+    [JSON Schema Editor](https://json-schema-editor.tangramjs.com)
+
+  * [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
+    is a React component for building Web forms from [JSON Schema](https://jsonschema.net/)
 
 ## Web-based XML Editors
 
@@ -581,6 +601,8 @@ Stefan Th. Gries' [web page](http://www.linguistics.ucsb.edu/faculty/stgries/ind
 
   * [Ruby on Sails](http://danopia.net/posts/12) - __Google Wave__ provider
     implemented in Ruby
+
+    Google Wave is now [Apache Wave](https://en.wikipedia.org/wiki/Apache_Wave)
 
   * [Semantic Versioning](http://semver.org/)
 
