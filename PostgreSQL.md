@@ -102,7 +102,13 @@ library for translating database values for Rails 3 and PostgreSQL hstore
 
 …
 
-The JSON column type and [PLV8](https://code.google.com/p/plv8js/)
+The JSON and JSONB column types and [PLV8](https://code.google.com/p/plv8js/)
+
+### Time-Series ###
+
+[TimescaleDB](https://www.timescale.com/),
+[GitHub](https://github.com/timescale/timescaledb),
+© Apache-2.0
 
 ### XML ###
 
