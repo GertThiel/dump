@@ -12,6 +12,27 @@ Search for
 Heroku's [WAL-E](https://github.com/heroku/WAL-E)
 
 
+## GraphQL ##
+
+[Graphile](https://www.graphile.org/)
+(Javascript, Node.js)
+
+[Hasura](https://hasura.io/)
+(Haskell)
+
+[Graphile vs Hasura?](https://www.reddit.com/r/graphql/comments/a84s22/graphile_vs_hasura/)
+
+> PostGraphile is written in JavaScript which is more approachable than Hasura’s Haskell …
+
+[PostgREST](http://postgrest.org/) (Haskell)
+is a standalone web server that turns your PostgreSQL database directly into a
+RESTful API. The structural constraints and permissions in the database determine
+the API endpoints and operations
+
+<del>[Prisma](https://www.prisma.io/),
+successor of [Graphcool](https://www.graph.cool/)</del>
+
+
 ## OLAP ##
 
 [Basic OLAP Support in PostgreSQL 9.5](http://www.thatguyfromdelhi.com/2015/05/basic-olap-support-in-postgresql.html)
